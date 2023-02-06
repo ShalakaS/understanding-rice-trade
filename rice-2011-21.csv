@@ -1,0 +1,1447 @@
+,Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code (CPC),Item,Year Code,Year,Unit,Value,Flag,Flag Description
+0,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2011,2011,tonnes,672000.0,A,Official figure
+1,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2012,2012,tonnes,500000.0,A,Official figure
+2,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2013,2013,tonnes,512094.0,A,Official figure
+3,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2014,2014,tonnes,537000.0,A,Official figure
+4,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2015,2015,tonnes,410000.0,A,Official figure
+5,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2016,2016,tonnes,356565.0,A,Official figure
+6,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2017,2017,tonnes,338420.0,A,Official figure
+7,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2018,2018,tonnes,352177.0,A,Official figure
+8,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2019,2019,tonnes,382500.0,A,Official figure
+9,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2020,2020,tonnes,439549.0,A,Official figure
+10,QCL,Crops and livestock products,4,Afghanistan,5510,Production,0113,Rice,2021,2021,tonnes,458571.64,I,Imputed value
+11,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2011,2011,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+12,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2012,2012,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+13,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2013,2013,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+14,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2014,2014,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+15,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2015,2015,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+16,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2016,2016,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+17,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2017,2017,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+18,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2018,2018,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+19,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2019,2019,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+20,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2020,2020,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+21,QCL,Crops and livestock products,8,Albania,5510,Production,0113,Rice,2021,2021,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+22,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2011,2011,tonnes,320.01,I,Imputed value
+23,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2012,2012,tonnes,300.0,E,Estimated value
+24,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2013,2013,tonnes,320.0,E,Estimated value
+25,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2014,2014,tonnes,320.0,E,Estimated value
+26,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2015,2015,tonnes,280.6,I,Imputed value
+27,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2016,2016,tonnes,306.87,E,Estimated value
+28,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2017,2017,tonnes,316.14,I,Imputed value
+29,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2018,2018,tonnes,315.34,I,Imputed value
+30,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2019,2019,tonnes,312.78,E,Estimated value
+31,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2020,2020,tonnes,314.75,E,Estimated value
+32,QCL,Crops and livestock products,12,Algeria,5510,Production,0113,Rice,2021,2021,tonnes,314.29,E,Estimated value
+33,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2011,2011,tonnes,23209.0,A,Official figure
+34,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2012,2012,tonnes,21492.0,A,Official figure
+35,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2013,2013,tonnes,37608.0,A,Official figure
+36,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2014,2014,tonnes,42288.0,A,Official figure
+37,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2015,2015,tonnes,45322.0,A,Official figure
+38,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2016,2016,tonnes,24576.0,A,Official figure
+39,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2017,2017,tonnes,9426.0,A,Official figure
+40,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2018,2018,tonnes,9699.0,A,Official figure
+41,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2019,2019,tonnes,10102.0,A,Official figure
+42,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2020,2020,tonnes,10567.0,A,Official figure
+43,QCL,Crops and livestock products,24,Angola,5510,Production,0113,Rice,2021,2021,tonnes,10514.0,A,Official figure
+44,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2011,2011,tonnes,1748075.0,A,Official figure
+45,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2012,2012,tonnes,1567971.0,A,Official figure
+46,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2013,2013,tonnes,1563450.0,A,Official figure
+47,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2014,2014,tonnes,1581810.0,A,Official figure
+48,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2015,2015,tonnes,1558100.0,A,Official figure
+49,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2016,2016,tonnes,1404980.0,A,Official figure
+50,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2017,2017,tonnes,1328340.0,A,Official figure
+51,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2018,2018,tonnes,1367968.0,A,Official figure
+52,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2019,2019,tonnes,1189866.0,A,Official figure
+53,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2020,2020,tonnes,1222910.0,A,Official figure
+54,QCL,Crops and livestock products,32,Argentina,5510,Production,0113,Rice,2021,2021,tonnes,1453187.0,A,Official figure
+55,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2011,2011,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+56,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2012,2012,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+57,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2013,2013,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+58,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2014,2014,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+59,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2015,2015,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+60,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2016,2016,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+61,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2017,2017,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+62,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2018,2018,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+63,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2019,2019,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+64,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2020,2020,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+65,QCL,Crops and livestock products,51,Armenia,5510,Production,0113,Rice,2021,2021,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+66,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2011,2011,tonnes,723283.0,A,Official figure
+67,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2012,2012,tonnes,918733.0,A,Official figure
+68,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2013,2013,tonnes,1161115.0,A,Official figure
+69,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2014,2014,tonnes,819276.0,A,Official figure
+70,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2015,2015,tonnes,690390.0,A,Official figure
+71,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2016,2016,tonnes,273942.0,A,Official figure
+72,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2017,2017,tonnes,807304.46,A,Official figure
+73,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2018,2018,tonnes,635113.0,A,Official figure
+74,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2019,2019,tonnes,66835.34,A,Official figure
+75,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2020,2020,tonnes,50226.33,A,Official figure
+76,QCL,Crops and livestock products,36,Australia,5510,Production,0113,Rice,2021,2021,tonnes,422977.54,A,Official figure
+77,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2011,2011,tonnes,3695.0,A,Official figure
+78,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2012,2012,tonnes,3749.0,A,Official figure
+79,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2013,2013,tonnes,4833.0,A,Official figure
+80,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2014,2014,tonnes,2679.0,A,Official figure
+81,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2015,2015,tonnes,2834.0,A,Official figure
+82,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2016,2016,tonnes,5406.0,A,Official figure
+83,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2017,2017,tonnes,15915.7,A,Official figure
+84,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2018,2018,tonnes,11974.6,A,Official figure
+85,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2019,2019,tonnes,11070.0,A,Official figure
+86,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2020,2020,tonnes,9397.3,A,Official figure
+87,QCL,Crops and livestock products,31,Azerbaijan,5510,Production,0113,Rice,2021,2021,tonnes,10062.3,A,Official figure
+88,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2011,2011,tonnes,50627000.0,A,Official figure
+89,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2012,2012,tonnes,50497000.0,A,Official figure
+90,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2013,2013,tonnes,51534000.0,A,Official figure
+91,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2014,2014,tonnes,51806593.0,A,Official figure
+92,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2015,2015,tonnes,51805464.0,A,Official figure
+93,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2016,2016,tonnes,50452866.0,A,Official figure
+94,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2017,2017,tonnes,54148000.0,A,Official figure
+95,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2018,2018,tonnes,54416000.0,A,Official figure
+96,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2019,2019,tonnes,54586344.0,A,Official figure
+97,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2020,2020,tonnes,54905891.0,A,Official figure
+98,QCL,Crops and livestock products,50,Bangladesh,5510,Production,0113,Rice,2021,2021,tonnes,56944553.97,I,Imputed value
+99,QCL,Crops and livestock products,56,Belgium,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+100,QCL,Crops and livestock products,56,Belgium,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+101,QCL,Crops and livestock products,56,Belgium,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+102,QCL,Crops and livestock products,56,Belgium,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+103,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2011,2011,tonnes,19081.0,A,Official figure
+104,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2012,2012,tonnes,12318.0,A,Official figure
+105,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2013,2013,tonnes,20505.0,A,Official figure
+106,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2014,2014,tonnes,16259.0,A,Official figure
+107,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2015,2015,tonnes,12663.0,A,Official figure
+108,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2016,2016,tonnes,16202.79,A,Official figure
+109,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2017,2017,tonnes,18751.0,A,Official figure
+110,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2018,2018,tonnes,13375.0,A,Official figure
+111,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2019,2019,tonnes,13900.0,A,Official figure
+112,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2020,2020,tonnes,13942.0,A,Official figure
+113,QCL,Crops and livestock products,84,Belize,5510,Production,0113,Rice,2021,2021,tonnes,14990.0,A,Official figure
+114,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2011,2011,tonnes,219626.0,A,Official figure
+115,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2012,2012,tonnes,216644.28,A,Official figure
+116,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2013,2013,tonnes,362589.0,A,Official figure
+117,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2014,2014,tonnes,234144.65,A,Official figure
+118,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2015,2015,tonnes,204309.71,A,Official figure
+119,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2016,2016,tonnes,281427.62,A,Official figure
+120,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2017,2017,tonnes,278717.55,A,Official figure
+121,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2018,2018,tonnes,459313.02,A,Official figure
+122,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2019,2019,tonnes,406082.78,A,Official figure
+123,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2020,2020,tonnes,411578.14,A,Official figure
+124,QCL,Crops and livestock products,204,Benin,5510,Production,0113,Rice,2021,2021,tonnes,519666.84,A,Official figure
+125,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2011,2011,tonnes,78730.0,A,Official figure
+126,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2012,2012,tonnes,78014.0,A,Official figure
+127,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2013,2013,tonnes,78730.0,A,Official figure
+128,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2014,2014,tonnes,76621.0,A,Official figure
+129,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2015,2015,tonnes,80261.0,A,Official figure
+130,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2016,2016,tonnes,83332.0,A,Official figure
+131,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2017,2017,tonnes,86385.0,A,Official figure
+132,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2018,2018,tonnes,63889.82,A,Official figure
+133,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2019,2019,tonnes,49948.05,A,Official figure
+134,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2020,2020,tonnes,54088.4,A,Official figure
+135,QCL,Crops and livestock products,64,Bhutan,5510,Production,0113,Rice,2021,2021,tonnes,40507.9,A,Official figure
+136,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2011,2011,tonnes,428007.0,A,Official figure
+137,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2012,2012,tonnes,474664.2,A,Official figure
+138,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2013,2013,tonnes,442911.67,A,Official figure
+139,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2014,2014,tonnes,484057.0,A,Official figure
+140,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2015,2015,tonnes,527341.0,A,Official figure
+141,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2016,2016,tonnes,406954.0,A,Official figure
+142,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2017,2017,tonnes,478578.45,A,Official figure
+143,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2018,2018,tonnes,541157.0,A,Official figure
+144,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2019,2019,tonnes,600044.0,A,Official figure
+145,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2020,2020,tonnes,487427.0,A,Official figure
+146,QCL,Crops and livestock products,68,Bolivia (Plurinational State of),5510,Production,0113,Rice,2021,2021,tonnes,550181.52,A,Official figure
+147,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2011,2011,tonnes,13476994.0,A,Official figure
+148,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2012,2012,tonnes,11549881.0,A,Official figure
+149,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2013,2013,tonnes,11782549.0,A,Official figure
+150,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2014,2014,tonnes,12175602.0,A,Official figure
+151,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2015,2015,tonnes,12301201.0,A,Official figure
+152,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2016,2016,tonnes,10622189.0,A,Official figure
+153,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2017,2017,tonnes,12464766.0,A,Official figure
+154,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2018,2018,tonnes,11808412.0,A,Official figure
+155,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2019,2019,tonnes,10368639.0,A,Official figure
+156,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2020,2020,tonnes,11091011.0,A,Official figure
+157,QCL,Crops and livestock products,76,Brazil,5510,Production,0113,Rice,2021,2021,tonnes,11660603.0,A,Official figure
+158,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2011,2011,tonnes,1480.0,A,Official figure
+159,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2012,2012,tonnes,1756.0,A,Official figure
+160,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2013,2013,tonnes,1237.0,A,Official figure
+161,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2014,2014,tonnes,1382.0,A,Official figure
+162,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2015,2015,tonnes,1983.0,A,Official figure
+163,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2016,2016,tonnes,1579.0,A,Official figure
+164,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2017,2017,tonnes,1527.0,A,Official figure
+165,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2018,2018,tonnes,1569.0,A,Official figure
+166,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2019,2019,tonnes,1499.95,A,Official figure
+167,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2020,2020,tonnes,2511.31,A,Official figure
+168,QCL,Crops and livestock products,96,Brunei Darussalam,5510,Production,0113,Rice,2021,2021,tonnes,2675.0,A,Official figure
+169,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2011,2011,tonnes,59619.0,A,Official figure
+170,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2012,2012,tonnes,54896.0,A,Official figure
+171,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2013,2013,tonnes,56121.0,A,Official figure
+172,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2014,2014,tonnes,54155.0,A,Official figure
+173,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2015,2015,tonnes,67684.0,A,Official figure
+174,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2016,2016,tonnes,64773.0,A,Official figure
+175,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2017,2017,tonnes,58523.0,A,Official figure
+176,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2018,2018,tonnes,60720.0,A,Official figure
+177,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2019,2019,tonnes,70920.0,A,Official figure
+178,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2020,2020,tonnes,65810.0,A,Official figure
+179,QCL,Crops and livestock products,100,Bulgaria,5510,Production,0113,Rice,2021,2021,tonnes,58120.0,A,Official figure
+180,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2011,2011,tonnes,240866.0,A,Official figure
+181,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2012,2012,tonnes,319390.0,A,Official figure
+182,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2013,2013,tonnes,305382.0,A,Official figure
+183,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2014,2014,tonnes,347501.0,A,Official figure
+184,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2015,2015,tonnes,325138.0,A,Official figure
+185,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2016,2016,tonnes,384690.0,A,Official figure
+186,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2017,2017,tonnes,325566.0,A,Official figure
+187,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2018,2018,tonnes,350392.0,A,Official figure
+188,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2019,2019,tonnes,376527.25,A,Official figure
+189,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2020,2020,tonnes,451421.0,A,Official figure
+190,QCL,Crops and livestock products,854,Burkina Faso,5510,Production,0113,Rice,2021,2021,tonnes,451000.0,A,Official figure
+191,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2011,2011,tonnes,91415.0,A,Official figure
+192,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2012,2012,tonnes,64620.0,A,Official figure
+193,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2013,2013,tonnes,41454.0,A,Official figure
+194,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2014,2014,tonnes,67377.0,A,Official figure
+195,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2015,2015,tonnes,38674.0,A,Official figure
+196,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2016,2016,tonnes,146633.0,A,Official figure
+197,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2017,2017,tonnes,88297.9,A,Official figure
+198,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2018,2018,tonnes,89296.2,A,Official figure
+199,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2019,2019,tonnes,241210.7,A,Official figure
+200,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2020,2020,tonnes,150000.0,T,Unofficial figure
+201,QCL,Crops and livestock products,108,Burundi,5510,Production,0113,Rice,2021,2021,tonnes,120000.0,T,Unofficial figure
+202,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2011,2011,tonnes,8779000.0,A,Official figure
+203,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2012,2012,tonnes,9290940.0,A,Official figure
+204,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2013,2013,tonnes,9390000.0,A,Official figure
+205,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2014,2014,tonnes,9324000.0,A,Official figure
+206,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2015,2015,tonnes,9335000.0,A,Official figure
+207,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2016,2016,tonnes,9952000.0,A,Official figure
+208,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2017,2017,tonnes,10518000.0,A,Official figure
+209,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2018,2018,tonnes,10892000.0,A,Official figure
+210,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2019,2019,tonnes,10885700.0,A,Official figure
+211,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2020,2020,tonnes,11248000.0,A,Official figure
+212,QCL,Crops and livestock products,116,Cambodia,5510,Production,0113,Rice,2021,2021,tonnes,11410000.0,T,Unofficial figure
+213,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2011,2011,tonnes,174089.0,A,Official figure
+214,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2012,2012,tonnes,181818.0,A,Official figure
+215,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2013,2013,tonnes,194094.0,A,Official figure
+216,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2014,2014,tonnes,153246.0,A,Official figure
+217,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2015,2015,tonnes,278281.0,A,Official figure
+218,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2016,2016,tonnes,359320.0,A,Official figure
+219,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2017,2017,tonnes,260000.0,E,Estimated value
+220,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2018,2018,tonnes,334200.0,A,Official figure
+221,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2019,2019,tonnes,334442.99,I,Imputed value
+222,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2020,2020,tonnes,339974.36,I,Imputed value
+223,QCL,Crops and livestock products,120,Cameroon,5510,Production,0113,Rice,2021,2021,tonnes,362294.45,I,Imputed value
+224,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2011,2011,tonnes,40000.0,A,Official figure
+225,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2012,2012,tonnes,42000.0,A,Official figure
+226,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2013,2013,tonnes,10000.0,A,Official figure
+227,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2014,2014,tonnes,12822.0,A,Official figure
+228,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2015,2015,tonnes,10179.81,A,Official figure
+229,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2016,2016,tonnes,11608.12,A,Official figure
+230,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2017,2017,tonnes,12000.0,A,Official figure
+231,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2018,2018,tonnes,12000.0,A,Official figure
+232,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2019,2019,tonnes,12552.0,A,Official figure
+233,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2020,2020,tonnes,13055.0,A,Official figure
+234,QCL,Crops and livestock products,140,Central African Republic,5510,Production,0113,Rice,2021,2021,tonnes,12808.96,I,Imputed value
+235,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2011,2011,tonnes,172687.0,A,Official figure
+236,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2012,2012,tonnes,188911.0,A,Official figure
+237,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2013,2013,tonnes,378426.0,A,Official figure
+238,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2014,2014,tonnes,304112.0,A,Official figure
+239,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2015,2015,tonnes,243478.0,A,Official figure
+240,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2016,2016,tonnes,257701.0,A,Official figure
+241,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2017,2017,tonnes,263555.0,A,Official figure
+242,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2018,2018,tonnes,259539.85,A,Official figure
+243,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2019,2019,tonnes,290563.0,A,Official figure
+244,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2020,2020,tonnes,278052.85,A,Official figure
+245,QCL,Crops and livestock products,148,Chad,5510,Production,0113,Rice,2021,2021,tonnes,242646.7,A,Official figure
+246,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2011,2011,tonnes,130375.0,A,Official figure
+247,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2012,2012,tonnes,149788.0,A,Official figure
+248,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2013,2013,tonnes,130307.0,A,Official figure
+249,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2014,2014,tonnes,134884.0,A,Official figure
+250,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2015,2015,tonnes,163559.6,A,Official figure
+251,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2016,2016,tonnes,174008.0,A,Official figure
+252,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2017,2017,tonnes,127866.0,A,Official figure
+253,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2018,2018,tonnes,192808.0,A,Official figure
+254,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2019,2019,tonnes,174897.2,A,Official figure
+255,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2020,2020,tonnes,169697.0,A,Official figure
+256,QCL,Crops and livestock products,152,Chile,5510,Production,0113,Rice,2021,2021,tonnes,146085.1,A,Official figure
+257,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2011,2011,tonnes,0.05,I,Imputed value
+258,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2012,2012,tonnes,0.05,I,Imputed value
+259,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2013,2013,tonnes,0.05,I,Imputed value
+260,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2014,2014,tonnes,0.05,I,Imputed value
+261,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2015,2015,tonnes,0.05,I,Imputed value
+262,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2016,2016,tonnes,0.05,I,Imputed value
+263,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2017,2017,tonnes,0.05,I,Imputed value
+264,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2018,2018,tonnes,0.05,I,Imputed value
+265,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2019,2019,tonnes,0.05,I,Imputed value
+266,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2020,2020,tonnes,0.05,I,Imputed value
+267,QCL,Crops and livestock products,344,"China, Hong Kong SAR",5510,Production,0113,Rice,2021,2021,tonnes,0.05,I,Imputed value
+268,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2011,2011,tonnes,201000896.0,A,Official figure
+269,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2012,2012,tonnes,204235900.0,A,Official figure
+270,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2013,2013,tonnes,203612192.0,A,Official figure
+271,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2014,2014,tonnes,206507400.0,A,Official figure
+272,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2015,2015,tonnes,212142000.0,A,Official figure
+273,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2016,2016,tonnes,211094000.0,A,Official figure
+274,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2017,2017,tonnes,212675900.0,A,Official figure
+275,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2018,2018,tonnes,212129000.0,A,Official figure
+276,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2019,2019,tonnes,209614000.0,A,Official figure
+277,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2020,2020,tonnes,211860000.0,A,Official figure
+278,QCL,Crops and livestock products,156,"China, mainland",5510,Production,0113,Rice,2021,2021,tonnes,212843000.0,A,Official figure
+279,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2011,2011,tonnes,1666273.0,A,Official figure
+280,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2012,2012,tonnes,1700229.0,A,Official figure
+281,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2013,2013,tonnes,1589504.0,A,Official figure
+282,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2014,2014,tonnes,1732210.0,A,Official figure
+283,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2015,2015,tonnes,1581732.0,A,Official figure
+284,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2016,2016,tonnes,1587776.0,A,Official figure
+285,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2017,2017,tonnes,1754049.0,A,Official figure
+286,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2018,2018,tonnes,1949796.0,A,Official figure
+287,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2019,2019,tonnes,1791211.0,A,Official figure
+288,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2020,2020,tonnes,1750729.0,A,Official figure
+289,QCL,Crops and livestock products,158,"China, Taiwan Province of",5510,Production,0113,Rice,2021,2021,tonnes,1560870.0,A,Official figure
+290,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2011,2011,tonnes,2009945.0,A,Official figure
+291,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2012,2012,tonnes,2317710.41,A,Official figure
+292,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2013,2013,tonnes,1996580.11,A,Official figure
+293,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2014,2014,tonnes,2206525.1,A,Official figure
+294,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2015,2015,tonnes,2488519.15,A,Official figure
+295,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2016,2016,tonnes,3059204.2,A,Official figure
+296,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2017,2017,tonnes,3292983.0,A,Official figure
+297,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2018,2018,tonnes,2944859.85,A,Official figure
+298,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2019,2019,tonnes,3012310.94,A,Official figure
+299,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2020,2020,tonnes,3424118.91,A,Official figure
+300,QCL,Crops and livestock products,170,Colombia,5510,Production,0113,Rice,2021,2021,tonnes,3326528.95,A,Official figure
+301,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2011,2011,tonnes,26500.0,E,Estimated value
+302,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2012,2012,tonnes,27000.0,E,Estimated value
+303,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2013,2013,tonnes,29000.0,E,Estimated value
+304,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2014,2014,tonnes,29906.25,I,Imputed value
+305,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2015,2015,tonnes,30224.48,I,Imputed value
+306,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2016,2016,tonnes,31058.95,I,Imputed value
+307,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2017,2017,tonnes,31586.42,I,Imputed value
+308,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2018,2018,tonnes,30956.62,E,Estimated value
+309,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2019,2019,tonnes,31200.66,E,Estimated value
+310,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2020,2020,tonnes,31247.9,E,Estimated value
+311,QCL,Crops and livestock products,174,Comoros,5510,Production,0113,Rice,2021,2021,tonnes,31135.06,E,Estimated value
+312,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2011,2011,tonnes,1204.79,I,Imputed value
+313,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2012,2012,tonnes,1202.81,I,Imputed value
+314,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2013,2013,tonnes,1196.45,I,Imputed value
+315,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2014,2014,tonnes,1197.28,I,Imputed value
+316,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2015,2015,tonnes,1221.64,I,Imputed value
+317,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2016,2016,tonnes,1230.72,I,Imputed value
+318,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2017,2017,tonnes,1205.35,I,Imputed value
+319,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2018,2018,tonnes,1162.62,I,Imputed value
+320,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2019,2019,tonnes,1131.43,I,Imputed value
+321,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2020,2020,tonnes,1098.98,I,Imputed value
+322,QCL,Crops and livestock products,178,Congo,5510,Production,0113,Rice,2021,2021,tonnes,1000.0,T,Unofficial figure
+323,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2011,2011,tonnes,278975.0,A,Official figure
+324,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2012,2012,tonnes,214418.0,A,Official figure
+325,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2013,2013,tonnes,224570.0,A,Official figure
+326,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2014,2014,tonnes,224157.0,A,Official figure
+327,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2015,2015,tonnes,195744.0,A,Official figure
+328,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2016,2016,tonnes,204338.0,A,Official figure
+329,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2017,2017,tonnes,152851.0,A,Official figure
+330,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2018,2018,tonnes,179638.3,A,Official figure
+331,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2019,2019,tonnes,157015.5,A,Official figure
+332,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2020,2020,tonnes,146571.0,A,Official figure
+333,QCL,Crops and livestock products,188,Costa Rica,5510,Production,0113,Rice,2021,2021,tonnes,151018.0,A,Official figure
+334,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2011,2011,tonnes,873016.0,A,Official figure
+335,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2012,2012,tonnes,1561905.0,A,Official figure
+336,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2013,2013,tonnes,1934154.0,A,Official figure
+337,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2014,2014,tonnes,2053520.0,A,Official figure
+338,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2015,2015,tonnes,2153000.0,A,Official figure
+339,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2016,2016,tonnes,2055000.0,A,Official figure
+340,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2017,2017,tonnes,2120000.0,A,Official figure
+341,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2018,2018,tonnes,2006845.0,A,Official figure
+342,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2019,2019,tonnes,1883956.0,A,Official figure
+343,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2020,2020,tonnes,1481182.0,A,Official figure
+344,QCL,Crops and livestock products,384,Côte d'Ivoire,5510,Production,0113,Rice,2021,2021,tonnes,1659000.0,A,Official figure
+345,QCL,Crops and livestock products,191,Croatia,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+346,QCL,Crops and livestock products,191,Croatia,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+347,QCL,Crops and livestock products,191,Croatia,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+348,QCL,Crops and livestock products,191,Croatia,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+349,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2011,2011,tonnes,566400.0,A,Official figure
+350,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2012,2012,tonnes,641600.0,A,Official figure
+351,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2013,2013,tonnes,672600.0,A,Official figure
+352,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2014,2014,tonnes,584800.0,A,Official figure
+353,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2015,2015,tonnes,418037.0,A,Official figure
+354,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2016,2016,tonnes,514045.0,A,Official figure
+355,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2017,2017,tonnes,404733.0,A,Official figure
+356,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2018,2018,tonnes,460869.75,A,Official figure
+357,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2019,2019,tonnes,391842.0,A,Official figure
+358,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2020,2020,tonnes,266595.1,A,Official figure
+359,QCL,Crops and livestock products,192,Cuba,5510,Production,0113,Rice,2021,2021,tonnes,225786.0,A,Official figure
+360,QCL,Crops and livestock products,196,Cyprus,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+361,QCL,Crops and livestock products,196,Cyprus,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+362,QCL,Crops and livestock products,196,Cyprus,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+363,QCL,Crops and livestock products,196,Cyprus,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+364,QCL,Crops and livestock products,203,Czechia,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+365,QCL,Crops and livestock products,203,Czechia,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+366,QCL,Crops and livestock products,203,Czechia,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+367,QCL,Crops and livestock products,203,Czechia,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+368,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2011,2011,tonnes,2479000.0,A,Official figure
+369,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2012,2012,tonnes,2861000.0,A,Official figure
+370,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2013,2013,tonnes,2901000.0,A,Official figure
+371,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2014,2014,tonnes,2626000.0,A,Official figure
+372,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2015,2015,tonnes,1946000.0,A,Official figure
+373,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2016,2016,tonnes,2536419.3,A,Official figure
+374,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2017,2017,tonnes,2383276.6,A,Official figure
+375,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2018,2018,tonnes,2087622.8,A,Official figure
+376,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2019,2019,tonnes,2803713.3,A,Official figure
+377,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2020,2020,tonnes,2113018.6,A,Official figure
+378,QCL,Crops and livestock products,408,Democratic People's Republic of Korea,5510,Production,0113,Rice,2021,2021,tonnes,1854841.42,I,Imputed value
+379,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2011,2011,tonnes,709417.0,A,Official figure
+380,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2012,2012,tonnes,645184.0,A,Official figure
+381,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2013,2013,tonnes,811218.0,A,Official figure
+382,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2014,2014,tonnes,1019979.0,A,Official figure
+383,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2015,2015,tonnes,1021815.0,A,Official figure
+384,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2016,2016,tonnes,1103772.76,I,Imputed value
+385,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2017,2017,tonnes,1213006.0,A,Official figure
+386,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2018,2018,tonnes,1286872.0,A,Official figure
+387,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2019,2019,tonnes,1378846.0,A,Official figure
+388,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2020,2020,tonnes,1476290.0,A,Official figure
+389,QCL,Crops and livestock products,180,Democratic Republic of the Congo,5510,Production,0113,Rice,2021,2021,tonnes,1580620.0,A,Official figure
+390,QCL,Crops and livestock products,208,Denmark,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+391,QCL,Crops and livestock products,208,Denmark,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+392,QCL,Crops and livestock products,208,Denmark,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+393,QCL,Crops and livestock products,208,Denmark,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+394,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2011,2011,tonnes,874690.0,A,Official figure
+395,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2012,2012,tonnes,663981.45,A,Official figure
+396,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2013,2013,tonnes,723636.93,A,Official figure
+397,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2014,2014,tonnes,899000.0,A,Official figure
+398,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2015,2015,tonnes,906000.0,A,Official figure
+399,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2016,2016,tonnes,856724.0,A,Official figure
+400,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2017,2017,tonnes,905051.0,A,Official figure
+401,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2018,2018,tonnes,965250.0,A,Official figure
+402,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2019,2019,tonnes,919464.0,A,Official figure
+403,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2020,2020,tonnes,934754.0,A,Official figure
+404,QCL,Crops and livestock products,214,Dominican Republic,5510,Production,0113,Rice,2021,2021,tonnes,1006394.0,A,Official figure
+405,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2011,2011,tonnes,1477941.0,A,Official figure
+406,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2012,2012,tonnes,1565535.2,A,Official figure
+407,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2013,2013,tonnes,1516045.0,A,Official figure
+408,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2014,2014,tonnes,1379953.59,A,Official figure
+409,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2015,2015,tonnes,1652793.39,A,Official figure
+410,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2016,2016,tonnes,1534537.15,A,Official figure
+411,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2017,2017,tonnes,1066614.0,A,Official figure
+412,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2018,2018,tonnes,1350093.0,A,Official figure
+413,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2019,2019,tonnes,1099686.46,A,Official figure
+414,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2020,2020,tonnes,1336502.0,A,Official figure
+415,QCL,Crops and livestock products,218,Ecuador,5510,Production,0113,Rice,2021,2021,tonnes,1504213.62,A,Official figure
+416,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2011,2011,tonnes,5675027.0,A,Official figure
+417,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2012,2012,tonnes,5911086.0,A,Official figure
+418,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2013,2013,tonnes,5724106.0,A,Official figure
+419,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2014,2014,tonnes,5467392.0,A,Official figure
+420,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2015,2015,tonnes,4817964.0,A,Official figure
+421,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2016,2016,tonnes,5308873.0,A,Official figure
+422,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2017,2017,tonnes,4960662.0,A,Official figure
+423,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2018,2018,tonnes,3123708.0,A,Official figure
+424,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2019,2019,tonnes,4804296.0,A,Official figure
+425,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2020,2020,tonnes,4804000.0,A,Official figure
+426,QCL,Crops and livestock products,818,Egypt,5510,Production,0113,Rice,2021,2021,tonnes,4841327.1,I,Imputed value
+427,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2011,2011,tonnes,25589.0,A,Official figure
+428,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2012,2012,tonnes,28325.0,A,Official figure
+429,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2013,2013,tonnes,36254.0,A,Official figure
+430,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2014,2014,tonnes,41838.0,A,Official figure
+431,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2015,2015,tonnes,38782.0,A,Official figure
+432,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2016,2016,tonnes,27617.0,A,Official figure
+433,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2017,2017,tonnes,29616.32,A,Official figure
+434,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2018,2018,tonnes,22763.5,A,Official figure
+435,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2019,2019,tonnes,27603.0,A,Official figure
+436,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2020,2020,tonnes,23497.42,A,Official figure
+437,QCL,Crops and livestock products,222,El Salvador,5510,Production,0113,Rice,2021,2021,tonnes,24000.0,T,Unofficial figure
+438,QCL,Crops and livestock products,233,Estonia,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+439,QCL,Crops and livestock products,233,Estonia,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+440,QCL,Crops and livestock products,233,Estonia,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+441,QCL,Crops and livestock products,233,Estonia,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+442,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2011,2011,tonnes,735.76,I,Imputed value
+443,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2012,2012,tonnes,780.87,I,Imputed value
+444,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2013,2013,tonnes,822.61,I,Imputed value
+445,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2014,2014,tonnes,861.79,I,Imputed value
+446,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2015,2015,tonnes,902.68,I,Imputed value
+447,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2016,2016,tonnes,895.22,I,Imputed value
+448,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2017,2017,tonnes,943.5,I,Imputed value
+449,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2018,2018,tonnes,1000.0,A,Official figure
+450,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2019,2019,tonnes,1000.0,A,Official figure
+451,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2020,2020,tonnes,1000.0,T,Unofficial figure
+452,QCL,Crops and livestock products,748,Eswatini,5510,Production,0113,Rice,2021,2021,tonnes,1000.0,T,Unofficial figure
+453,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2011,2011,tonnes,88619.0,A,Official figure
+454,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2012,2012,tonnes,121042.0,A,Official figure
+455,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2013,2013,tonnes,92363.0,A,Official figure
+456,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2014,2014,tonnes,131821.0,A,Official figure
+457,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2015,2015,tonnes,139780.14,A,Official figure
+458,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2016,2016,tonnes,136001.0,A,Official figure
+459,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2017,2017,tonnes,151018.33,A,Official figure
+460,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2018,2018,tonnes,171854.1,A,Official figure
+461,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2019,2019,tonnes,170630.1,A,Official figure
+462,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2020,2020,tonnes,189648.7,A,Official figure
+463,QCL,Crops and livestock products,231,Ethiopia,5510,Production,0113,Rice,2021,2021,tonnes,200000.0,T,Unofficial figure
+464,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2011,2011,tonnes,7914.0,A,Official figure
+465,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2012,2012,tonnes,4653.0,A,Official figure
+466,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2013,2013,tonnes,6873.0,A,Official figure
+467,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2014,2014,tonnes,6843.45,A,Official figure
+468,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2015,2015,tonnes,6329.0,A,Official figure
+469,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2016,2016,tonnes,8649.0,A,Official figure
+470,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2017,2017,tonnes,9081.0,A,Official figure
+471,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2018,2018,tonnes,7051.0,A,Official figure
+472,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2019,2019,tonnes,6589.15,A,Official figure
+473,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2020,2020,tonnes,8846.96,A,Official figure
+474,QCL,Crops and livestock products,242,Fiji,5510,Production,0113,Rice,2021,2021,tonnes,10367.75,A,Official figure
+475,QCL,Crops and livestock products,246,Finland,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+476,QCL,Crops and livestock products,246,Finland,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+477,QCL,Crops and livestock products,246,Finland,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+478,QCL,Crops and livestock products,246,Finland,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+479,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2011,2011,tonnes,130400.0,A,Official figure
+480,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2012,2012,tonnes,124091.0,A,Official figure
+481,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2013,2013,tonnes,80801.0,A,Official figure
+482,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2014,2014,tonnes,83492.0,A,Official figure
+483,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2015,2015,tonnes,80858.2,A,Official figure
+484,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2016,2016,tonnes,80297.0,A,Official figure
+485,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2017,2017,tonnes,92544.0,A,Official figure
+486,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2018,2018,tonnes,71430.0,A,Official figure
+487,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2019,2019,tonnes,82570.0,A,Official figure
+488,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2020,2020,tonnes,76320.0,A,Official figure
+489,QCL,Crops and livestock products,250,France,5510,Production,0113,Rice,2021,2021,tonnes,62340.0,A,Official figure
+490,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2011,2011,tonnes,1491.52,I,Imputed value
+491,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2012,2012,tonnes,1700.0,E,Estimated value
+492,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2013,2013,tonnes,1700.0,E,Estimated value
+493,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2014,2014,tonnes,1663.95,I,Imputed value
+494,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2015,2015,tonnes,1684.31,I,Imputed value
+495,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2016,2016,tonnes,1727.6,I,Imputed value
+496,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2017,2017,tonnes,1691.96,E,Estimated value
+497,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2018,2018,tonnes,1701.29,E,Estimated value
+498,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2019,2019,tonnes,1706.95,E,Estimated value
+499,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2020,2020,tonnes,1700.06,E,Estimated value
+500,QCL,Crops and livestock products,266,Gabon,5510,Production,0113,Rice,2021,2021,tonnes,1702.77,E,Estimated value
+501,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2011,2011,tonnes,51136.0,A,Official figure
+502,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2012,2012,tonnes,54219.0,A,Official figure
+503,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2013,2013,tonnes,69704.0,A,Official figure
+504,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2014,2014,tonnes,46674.0,A,Official figure
+505,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2015,2015,tonnes,70000.0,A,Official figure
+506,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2016,2016,tonnes,49000.0,A,Official figure
+507,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2017,2017,tonnes,30000.0,A,Official figure
+508,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2018,2018,tonnes,28000.0,A,Official figure
+509,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2019,2019,tonnes,31900.0,A,Official figure
+510,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2020,2020,tonnes,40300.0,A,Official figure
+511,QCL,Crops and livestock products,270,Gambia,5510,Production,0113,Rice,2021,2021,tonnes,41900.0,A,Official figure
+512,QCL,Crops and livestock products,276,Germany,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+513,QCL,Crops and livestock products,276,Germany,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+514,QCL,Crops and livestock products,276,Germany,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+515,QCL,Crops and livestock products,276,Germany,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+516,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2011,2011,tonnes,463975.0,A,Official figure
+517,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2012,2012,tonnes,481134.0,A,Official figure
+518,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2013,2013,tonnes,569524.0,A,Official figure
+519,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2014,2014,tonnes,604000.0,A,Official figure
+520,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2015,2015,tonnes,641491.54,A,Official figure
+521,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2016,2016,tonnes,687678.93,A,Official figure
+522,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2017,2017,tonnes,722080.11,A,Official figure
+523,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2018,2018,tonnes,769400.87,A,Official figure
+524,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2019,2019,tonnes,925000.0,A,Official figure
+525,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2020,2020,tonnes,986900.0,A,Official figure
+526,QCL,Crops and livestock products,288,Ghana,5510,Production,0113,Rice,2021,2021,tonnes,1231200.0,A,Official figure
+527,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2011,2011,tonnes,250684.91,A,Official figure
+528,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2012,2012,tonnes,230661.72,A,Official figure
+529,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2013,2013,tonnes,235939.32,A,Official figure
+530,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2014,2014,tonnes,229381.03,A,Official figure
+531,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2015,2015,tonnes,263646.1,A,Official figure
+532,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2016,2016,tonnes,277482.31,A,Official figure
+533,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2017,2017,tonnes,255418.0,A,Official figure
+534,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2018,2018,tonnes,222690.0,A,Official figure
+535,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2019,2019,tonnes,220930.0,A,Official figure
+536,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2020,2020,tonnes,287410.0,A,Official figure
+537,QCL,Crops and livestock products,300,Greece,5510,Production,0113,Rice,2021,2021,tonnes,241650.0,A,Official figure
+538,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2011,2011,tonnes,30404.3,A,Official figure
+539,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2012,2012,tonnes,31135.0,A,Official figure
+540,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2013,2013,tonnes,32245.88,A,Official figure
+541,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2014,2014,tonnes,33615.73,A,Official figure
+542,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2015,2015,tonnes,32826.48,A,Official figure
+543,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2016,2016,tonnes,33747.27,A,Official figure
+544,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2017,2017,tonnes,31831.0,A,Official figure
+545,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2018,2018,tonnes,32564.0,A,Official figure
+546,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2019,2019,tonnes,22776.0,A,Official figure
+547,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2020,2020,tonnes,23583.0,A,Official figure
+548,QCL,Crops and livestock products,320,Guatemala,5510,Production,0113,Rice,2021,2021,tonnes,33000.0,T,Unofficial figure
+549,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2011,2011,tonnes,1792801.0,A,Official figure
+550,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2012,2012,tonnes,1918841.0,A,Official figure
+551,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2013,2013,tonnes,2053359.0,A,Official figure
+552,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2014,2014,tonnes,1970515.0,A,Official figure
+553,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2015,2015,tonnes,2047365.0,A,Official figure
+554,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2016,2016,tonnes,2136242.0,A,Official figure
+555,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2017,2017,tonnes,2197907.0,A,Official figure
+556,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2018,2018,tonnes,2339747.0,A,Official figure
+557,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2019,2019,tonnes,2385929.0,A,Official figure
+558,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2020,2020,tonnes,2459015.0,A,Official figure
+559,QCL,Crops and livestock products,324,Guinea,5510,Production,0113,Rice,2021,2021,tonnes,2475325.0,A,Official figure
+560,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2011,2011,tonnes,175213.0,A,Official figure
+561,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2012,2012,tonnes,198504.0,A,Official figure
+562,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2013,2013,tonnes,209717.0,A,Official figure
+563,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2014,2014,tonnes,133000.0,A,Official figure
+564,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2015,2015,tonnes,170000.0,T,Unofficial figure
+565,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2016,2016,tonnes,186000.0,T,Unofficial figure
+566,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2017,2017,tonnes,165000.0,T,Unofficial figure
+567,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2018,2018,tonnes,176000.0,T,Unofficial figure
+568,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2019,2019,tonnes,187000.0,A,Official figure
+569,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2020,2020,tonnes,198142.0,A,Official figure
+570,QCL,Crops and livestock products,624,Guinea-Bissau,5510,Production,0113,Rice,2021,2021,tonnes,213918.0,A,Official figure
+571,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2011,2011,tonnes,619198.0,A,Official figure
+572,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2012,2012,tonnes,649320.0,A,Official figure
+573,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2013,2013,tonnes,823930.0,A,Official figure
+574,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2014,2014,tonnes,635238.0,A,Official figure
+575,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2015,2015,tonnes,687784.0,A,Official figure
+576,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2016,2016,tonnes,534450.0,A,Official figure
+577,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2017,2017,tonnes,630104.06,A,Official figure
+578,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2018,2018,tonnes,626660.0,A,Official figure
+579,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2019,2019,tonnes,682418.42,A,Official figure
+580,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2020,2020,tonnes,687539.04,A,Official figure
+581,QCL,Crops and livestock products,328,Guyana,5510,Production,0113,Rice,2021,2021,tonnes,559113.0,A,Official figure
+582,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2011,2011,tonnes,145000.0,A,Official figure
+583,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2012,2012,tonnes,147599.44,A,Official figure
+584,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2013,2013,tonnes,169299.66,A,Official figure
+585,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2014,2014,tonnes,143650.0,A,Official figure
+586,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2015,2015,tonnes,132000.0,A,Official figure
+587,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2016,2016,tonnes,172114.0,A,Official figure
+588,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2017,2017,tonnes,179000.0,T,Unofficial figure
+589,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2018,2018,tonnes,164643.0,A,Official figure
+590,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2019,2019,tonnes,186087.0,A,Official figure
+591,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2020,2020,tonnes,172000.0,T,Unofficial figure
+592,QCL,Crops and livestock products,332,Haiti,5510,Production,0113,Rice,2021,2021,tonnes,155000.0,T,Unofficial figure
+593,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2011,2011,tonnes,49224.0,A,Official figure
+594,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2012,2012,tonnes,53755.0,A,Official figure
+595,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2013,2013,tonnes,49643.0,A,Official figure
+596,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2014,2014,tonnes,67054.0,A,Official figure
+597,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2015,2015,tonnes,69418.0,A,Official figure
+598,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2016,2016,tonnes,68181.0,A,Official figure
+599,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2017,2017,tonnes,59634.0,A,Official figure
+600,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2018,2018,tonnes,59648.11,A,Official figure
+601,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2019,2019,tonnes,56522.76,A,Official figure
+602,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2020,2020,tonnes,65634.28,A,Official figure
+603,QCL,Crops and livestock products,340,Honduras,5510,Production,0113,Rice,2021,2021,tonnes,53820.14,A,Official figure
+604,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2011,2011,tonnes,9075.0,A,Official figure
+605,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2012,2012,tonnes,11270.0,A,Official figure
+606,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2013,2013,tonnes,8640.0,A,Official figure
+607,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2014,2014,tonnes,7910.0,A,Official figure
+608,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2015,2015,tonnes,9412.0,A,Official figure
+609,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2016,2016,tonnes,10767.0,A,Official figure
+610,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2017,2017,tonnes,12303.0,A,Official figure
+611,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2018,2018,tonnes,13420.0,A,Official figure
+612,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2019,2019,tonnes,11030.0,A,Official figure
+613,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2020,2020,tonnes,11740.0,A,Official figure
+614,QCL,Crops and livestock products,348,Hungary,5510,Production,0113,Rice,2021,2021,tonnes,9520.0,A,Official figure
+615,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2011,2011,tonnes,157900000.0,A,Official figure
+616,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2012,2012,tonnes,157800000.0,A,Official figure
+617,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2013,2013,tonnes,159200000.0,A,Official figure
+618,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2014,2014,tonnes,157200000.0,A,Official figure
+619,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2015,2015,tonnes,156540000.0,A,Official figure
+620,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2016,2016,tonnes,163700000.0,A,Official figure
+621,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2017,2017,tonnes,169136415.0,A,Official figure
+622,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2018,2018,tonnes,174716730.0,A,Official figure
+623,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2019,2019,tonnes,178305480.0,A,Official figure
+624,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2020,2020,tonnes,186500000.0,A,Official figure
+625,QCL,Crops and livestock products,356,India,5510,Production,0113,Rice,2021,2021,tonnes,195425000.0,A,Official figure
+626,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2011,2011,tonnes,58259000.0,E,Estimated value
+627,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2012,2012,tonnes,59705000.0,E,Estimated value
+628,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2013,2013,tonnes,60095000.0,E,Estimated value
+629,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2014,2014,tonnes,59059000.0,E,Estimated value
+630,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2015,2015,tonnes,61031000.0,E,Estimated value
+631,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2016,2016,tonnes,54031000.0,A,Official figure
+632,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2017,2017,tonnes,55252000.0,A,Official figure
+633,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2018,2018,tonnes,59200534.0,A,Official figure
+634,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2019,2019,tonnes,54604033.0,A,Official figure
+635,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2020,2020,tonnes,54649202.24,A,Official figure
+636,QCL,Crops and livestock products,360,Indonesia,5510,Production,0113,Rice,2021,2021,tonnes,54415294.0,A,Official figure
+637,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2011,2011,tonnes,1893013.0,A,Official figure
+638,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2012,2012,tonnes,2360000.0,A,Official figure
+639,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2013,2013,tonnes,2449995.0,A,Official figure
+640,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2014,2014,tonnes,2347290.5,A,Official figure
+641,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2015,2015,tonnes,2347701.0,A,Official figure
+642,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2016,2016,tonnes,2921046.0,A,Official figure
+643,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2017,2017,tonnes,1956281.0,A,Official figure
+644,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2018,2018,tonnes,2106598.48,A,Official figure
+645,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2019,2019,tonnes,2486418.61,I,Imputed value
+646,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2020,2020,tonnes,1820368.22,A,Official figure
+647,QCL,Crops and livestock products,364,Iran (Islamic Republic of),5510,Production,0113,Rice,2021,2021,tonnes,1595344.62,A,Official figure
+648,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2011,2011,tonnes,235118.0,A,Official figure
+649,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2012,2012,tonnes,361339.0,A,Official figure
+650,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2013,2013,tonnes,451849.0,A,Official figure
+651,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2014,2014,tonnes,403028.0,A,Official figure
+652,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2015,2015,tonnes,109209.0,A,Official figure
+653,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2016,2016,tonnes,181320.0,A,Official figure
+654,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2017,2017,tonnes,265852.0,A,Official figure
+655,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2018,2018,tonnes,18196.0,A,Official figure
+656,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2019,2019,tonnes,574705.0,A,Official figure
+657,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2020,2020,tonnes,464159.0,A,Official figure
+658,QCL,Crops and livestock products,368,Iraq,5510,Production,0113,Rice,2021,2021,tonnes,422463.0,A,Official figure
+659,QCL,Crops and livestock products,372,Ireland,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+660,QCL,Crops and livestock products,372,Ireland,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+661,QCL,Crops and livestock products,372,Ireland,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+662,QCL,Crops and livestock products,372,Ireland,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+663,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2011,2011,tonnes,1490150.0,A,Official figure
+664,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2012,2012,tonnes,1601478.0,A,Official figure
+665,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2013,2013,tonnes,1433111.0,A,Official figure
+666,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2014,2014,tonnes,1386100.0,A,Official figure
+667,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2015,2015,tonnes,1518229.0,A,Official figure
+668,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2016,2016,tonnes,1587346.0,A,Official figure
+669,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2017,2017,tonnes,1598027.0,A,Official figure
+670,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2018,2018,tonnes,1470090.0,A,Official figure
+671,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2019,2019,tonnes,1492620.0,A,Official figure
+672,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2020,2020,tonnes,1507490.0,A,Official figure
+673,QCL,Crops and livestock products,380,Italy,5510,Production,0113,Rice,2021,2021,tonnes,1459310.0,A,Official figure
+674,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2011,2011,tonnes,234.7,A,Official figure
+675,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2012,2012,tonnes,301.0,A,Official figure
+676,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2013,2013,tonnes,42.0,A,Official figure
+677,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2014,2014,tonnes,22.0,A,Official figure
+678,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2015,2015,tonnes,18.0,A,Official figure
+679,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2016,2016,tonnes,13.6,A,Official figure
+680,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2017,2017,tonnes,1.0,A,Official figure
+681,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+682,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2019,2019,tonnes,1.0,A,Official figure
+683,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+684,QCL,Crops and livestock products,388,Jamaica,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+685,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2011,2011,tonnes,10707000.0,A,Official figure
+686,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2012,2012,tonnes,11091000.0,A,Official figure
+687,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2013,2013,tonnes,11236000.0,A,Official figure
+688,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2014,2014,tonnes,11231000.0,A,Official figure
+689,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2015,2015,tonnes,10925000.0,A,Official figure
+690,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2016,2016,tonnes,10934000.0,A,Official figure
+691,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2017,2017,tonnes,10777000.0,A,Official figure
+692,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2018,2018,tonnes,10606000.0,A,Official figure
+693,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2019,2019,tonnes,10540100.0,A,Official figure
+694,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2020,2020,tonnes,10469000.0,A,Official figure
+695,QCL,Crops and livestock products,392,Japan,5510,Production,0113,Rice,2021,2021,tonnes,10525400.0,A,Official figure
+696,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2011,2011,tonnes,346758.0,A,Official figure
+697,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2012,2012,tonnes,350831.1,A,Official figure
+698,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2013,2013,tonnes,344304.8,A,Official figure
+699,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2014,2014,tonnes,377040.9,A,Official figure
+700,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2015,2015,tonnes,422225.0,A,Official figure
+701,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2016,2016,tonnes,447830.0,A,Official figure
+702,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2017,2017,tonnes,489485.0,A,Official figure
+703,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2018,2018,tonnes,482945.0,A,Official figure
+704,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2019,2019,tonnes,560667.72,A,Official figure
+705,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2020,2020,tonnes,556774.77,A,Official figure
+706,QCL,Crops and livestock products,398,Kazakhstan,5510,Production,0113,Rice,2021,2021,tonnes,503771.3,A,Official figure
+707,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2011,2011,tonnes,111229.0,A,Official figure
+708,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2012,2012,tonnes,138204.0,A,Official figure
+709,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2013,2013,tonnes,125256.0,A,Official figure
+710,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2014,2014,tonnes,112263.0,A,Official figure
+711,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2015,2015,tonnes,116473.0,A,Official figure
+712,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2016,2016,tonnes,101510.0,A,Official figure
+713,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2017,2017,tonnes,81198.0,A,Official figure
+714,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2018,2018,tonnes,112605.0,A,Official figure
+715,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2019,2019,tonnes,160585.0,A,Official figure
+716,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2020,2020,tonnes,180890.0,A,Official figure
+717,QCL,Crops and livestock products,404,Kenya,5510,Production,0113,Rice,2021,2021,tonnes,186000.0,A,Official figure
+718,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2011,2011,tonnes,19432.0,A,Official figure
+719,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2012,2012,tonnes,23069.0,A,Official figure
+720,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2013,2013,tonnes,27220.0,A,Official figure
+721,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2014,2014,tonnes,28230.0,A,Official figure
+722,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2015,2015,tonnes,30208.0,A,Official figure
+723,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2016,2016,tonnes,34846.7,A,Official figure
+724,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2017,2017,tonnes,38179.6,A,Official figure
+725,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2018,2018,tonnes,40783.0,A,Official figure
+726,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2019,2019,tonnes,41219.1,A,Official figure
+727,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2020,2020,tonnes,44473.6,A,Official figure
+728,QCL,Crops and livestock products,417,Kyrgyzstan,5510,Production,0113,Rice,2021,2021,tonnes,46338.0,A,Official figure
+729,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2011,2011,tonnes,3065760.0,A,Official figure
+730,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2012,2012,tonnes,3489210.0,A,Official figure
+731,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2013,2013,tonnes,3414560.0,A,Official figure
+732,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2014,2014,tonnes,4002424.74,A,Official figure
+733,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2015,2015,tonnes,4102000.0,A,Official figure
+734,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2016,2016,tonnes,4148800.0,A,Official figure
+735,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2017,2017,tonnes,4039779.0,A,Official figure
+736,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2018,2018,tonnes,3584700.0,A,Official figure
+737,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2019,2019,tonnes,3534500.0,A,Official figure
+738,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2020,2020,tonnes,3519100.0,A,Official figure
+739,QCL,Crops and livestock products,418,Lao People's Democratic Republic,5510,Production,0113,Rice,2021,2021,tonnes,3870000.0,T,Unofficial figure
+740,QCL,Crops and livestock products,428,Latvia,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+741,QCL,Crops and livestock products,428,Latvia,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+742,QCL,Crops and livestock products,428,Latvia,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+743,QCL,Crops and livestock products,428,Latvia,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+744,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2011,2011,tonnes,291000.0,A,Official figure
+745,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2012,2012,tonnes,297000.0,A,Official figure
+746,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2013,2013,tonnes,270000.0,A,Official figure
+747,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2014,2014,tonnes,266000.0,A,Official figure
+748,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2015,2015,tonnes,296000.0,A,Official figure
+749,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2016,2016,tonnes,335180.0,A,Official figure
+750,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2017,2017,tonnes,247495.0,A,Official figure
+751,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2018,2018,tonnes,257995.0,A,Official figure
+752,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2019,2019,tonnes,276400.0,A,Official figure
+753,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2020,2020,tonnes,279000.0,A,Official figure
+754,QCL,Crops and livestock products,430,Liberia,5510,Production,0113,Rice,2021,2021,tonnes,255600.0,A,Official figure
+755,QCL,Crops and livestock products,440,Lithuania,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+756,QCL,Crops and livestock products,440,Lithuania,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+757,QCL,Crops and livestock products,440,Lithuania,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+758,QCL,Crops and livestock products,440,Lithuania,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+759,QCL,Crops and livestock products,442,Luxembourg,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+760,QCL,Crops and livestock products,442,Luxembourg,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+761,QCL,Crops and livestock products,442,Luxembourg,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+762,QCL,Crops and livestock products,442,Luxembourg,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+763,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2011,2011,tonnes,4300185.0,A,Official figure
+764,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2012,2012,tonnes,4550649.0,A,Official figure
+765,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2013,2013,tonnes,3610626.0,A,Official figure
+766,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2014,2014,tonnes,3977863.0,A,Official figure
+767,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2015,2015,tonnes,3722304.0,A,Official figure
+768,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2016,2016,tonnes,3815849.0,A,Official figure
+769,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2017,2017,tonnes,3600500.0,A,Official figure
+770,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2018,2018,tonnes,4030000.0,A,Official figure
+771,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2019,2019,tonnes,3910629.0,A,Official figure
+772,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2020,2020,tonnes,4227927.0,A,Official figure
+773,QCL,Crops and livestock products,450,Madagascar,5510,Production,0113,Rice,2021,2021,tonnes,4391386.0,A,Official figure
+774,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2011,2011,tonnes,117733.0,A,Official figure
+775,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2012,2012,tonnes,110964.0,A,Official figure
+776,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2013,2013,tonnes,125156.0,A,Official figure
+777,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2014,2014,tonnes,132002.0,A,Official figure
+778,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2015,2015,tonnes,111437.0,A,Official figure
+779,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2016,2016,tonnes,83757.0,A,Official figure
+780,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2017,2017,tonnes,121079.0,A,Official figure
+781,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2018,2018,tonnes,112313.0,A,Official figure
+782,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2019,2019,tonnes,132728.0,A,Official figure
+783,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2020,2020,tonnes,145445.5,A,Official figure
+784,QCL,Crops and livestock products,454,Malawi,5510,Production,0113,Rice,2021,2021,tonnes,147100.0,A,Official figure
+785,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2011,2011,tonnes,2575988.0,A,Official figure
+786,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2012,2012,tonnes,2599382.0,A,Official figure
+787,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2013,2013,tonnes,2603654.0,A,Official figure
+788,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2014,2014,tonnes,1834831.0,A,Official figure
+789,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2015,2015,tonnes,2741404.0,A,Official figure
+790,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2016,2016,tonnes,2739606.0,A,Official figure
+791,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2017,2017,tonnes,2570513.0,A,Official figure
+792,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2018,2018,tonnes,2639202.0,A,Official figure
+793,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2019,2019,tonnes,2352870.0,A,Official figure
+794,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2020,2020,tonnes,2356391.9,A,Official figure
+795,QCL,Crops and livestock products,458,Malaysia,5510,Production,0113,Rice,2021,2021,tonnes,2418148.0,A,Official figure
+796,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2011,2011,tonnes,1741472.0,A,Official figure
+797,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2012,2012,tonnes,2076423.0,A,Official figure
+798,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2013,2013,tonnes,1977669.0,A,Official figure
+799,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2014,2014,tonnes,2166830.0,A,Official figure
+800,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2015,2015,tonnes,2331053.0,A,Official figure
+801,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2016,2016,tonnes,2780905.0,A,Official figure
+802,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2017,2017,tonnes,2707557.0,A,Official figure
+803,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2018,2018,tonnes,3167527.62,A,Official figure
+804,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2019,2019,tonnes,3196336.0,A,Official figure
+805,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2020,2020,tonnes,3010027.0,A,Official figure
+806,QCL,Crops and livestock products,466,Mali,5510,Production,0113,Rice,2021,2021,tonnes,2420245.0,A,Official figure
+807,QCL,Crops and livestock products,470,Malta,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+808,QCL,Crops and livestock products,470,Malta,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+809,QCL,Crops and livestock products,470,Malta,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+810,QCL,Crops and livestock products,470,Malta,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+811,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2011,2011,tonnes,158021.0,A,Official figure
+812,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2012,2012,tonnes,184217.0,A,Official figure
+813,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2013,2013,tonnes,202547.0,A,Official figure
+814,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2014,2014,tonnes,293219.0,A,Official figure
+815,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2015,2015,tonnes,223000.0,A,Official figure
+816,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2016,2016,tonnes,207000.0,A,Official figure
+817,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2017,2017,tonnes,301000.0,A,Official figure
+818,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2018,2018,tonnes,323000.0,A,Official figure
+819,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2019,2019,tonnes,255500.0,A,Official figure
+820,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2020,2020,tonnes,291300.0,A,Official figure
+821,QCL,Crops and livestock products,478,Mauritania,5510,Production,0113,Rice,2021,2021,tonnes,428400.0,A,Official figure
+822,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2011,2011,tonnes,316.0,A,Official figure
+823,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2012,2012,tonnes,831.0,A,Official figure
+824,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2013,2013,tonnes,646.0,A,Official figure
+825,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2014,2014,tonnes,1186.0,A,Official figure
+826,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2015,2015,tonnes,657.0,A,Official figure
+827,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2016,2016,tonnes,352.0,A,Official figure
+828,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2017,2017,tonnes,160.0,A,Official figure
+829,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2018,2018,tonnes,19.0,A,Official figure
+830,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2019,2019,tonnes,21.0,A,Official figure
+831,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+832,QCL,Crops and livestock products,480,Mauritius,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+833,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2011,2011,tonnes,173461.0,A,Official figure
+834,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2012,2012,tonnes,178787.0,A,Official figure
+835,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2013,2013,tonnes,179776.0,A,Official figure
+836,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2014,2014,tonnes,232158.62,A,Official figure
+837,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2015,2015,tonnes,236017.92,A,Official figure
+838,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2016,2016,tonnes,254043.31,A,Official figure
+839,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2017,2017,tonnes,265567.3,A,Official figure
+840,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2018,2018,tonnes,283763.37,A,Official figure
+841,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2019,2019,tonnes,245217.41,A,Official figure
+842,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2020,2020,tonnes,295337.84,A,Official figure
+843,QCL,Crops and livestock products,484,Mexico,5510,Production,0113,Rice,2021,2021,tonnes,257041.44,A,Official figure
+844,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2011,2011,tonnes,145.22,I,Imputed value
+845,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2012,2012,tonnes,160.0,E,Estimated value
+846,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2013,2013,tonnes,165.0,E,Estimated value
+847,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2014,2014,tonnes,170.55,I,Imputed value
+848,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2015,2015,tonnes,169.72,I,Imputed value
+849,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2016,2016,tonnes,173.88,I,Imputed value
+850,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2017,2017,tonnes,177.4,I,Imputed value
+851,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2018,2018,tonnes,173.67,E,Estimated value
+852,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2019,2019,tonnes,174.98,E,Estimated value
+853,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2020,2020,tonnes,175.35,E,Estimated value
+854,QCL,Crops and livestock products,583,Micronesia (Federated States of),5510,Production,0113,Rice,2021,2021,tonnes,174.67,E,Estimated value
+855,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2011,2011,tonnes,17840.0,A,Official figure
+856,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2012,2012,tonnes,69554.0,A,Official figure
+857,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2013,2013,tonnes,37716.3,A,Official figure
+858,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2014,2014,tonnes,33051.3,A,Official figure
+859,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2015,2015,tonnes,63297.5,A,Official figure
+860,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2016,2016,tonnes,53353.8,A,Official figure
+861,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2017,2017,tonnes,57697.5,A,Official figure
+862,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2018,2018,tonnes,63037.1,A,Official figure
+863,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2019,2019,tonnes,64598.1,A,Official figure
+864,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2020,2020,tonnes,65700.0,A,Official figure
+865,QCL,Crops and livestock products,504,Morocco,5510,Production,0113,Rice,2021,2021,tonnes,50900.7,A,Official figure
+866,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2011,2011,tonnes,271402.0,A,Official figure
+867,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2012,2012,tonnes,203102.0,A,Official figure
+868,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2013,2013,tonnes,114012.0,A,Official figure
+869,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2014,2014,tonnes,155741.0,A,Official figure
+870,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2015,2015,tonnes,128197.0,A,Official figure
+871,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2016,2016,tonnes,133000.0,A,Official figure
+872,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2017,2017,tonnes,138000.0,A,Official figure
+873,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2018,2018,tonnes,170129.0,A,Official figure
+874,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2019,2019,tonnes,179836.0,A,Official figure
+875,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2020,2020,tonnes,137243.0,A,Official figure
+876,QCL,Crops and livestock products,508,Mozambique,5510,Production,0113,Rice,2021,2021,tonnes,189000.0,T,Unofficial figure
+877,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2011,2011,tonnes,28552100.0,A,Official figure
+878,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2012,2012,tonnes,26216600.0,A,Official figure
+879,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2013,2013,tonnes,26372100.0,A,Official figure
+880,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2014,2014,tonnes,26423300.0,A,Official figure
+881,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2015,2015,tonnes,26210318.0,A,Official figure
+882,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2016,2016,tonnes,25672832.0,A,Official figure
+883,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2017,2017,tonnes,26546385.89,A,Official figure
+884,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2018,2018,tonnes,27573589.14,A,Official figure
+885,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2019,2019,tonnes,26269814.0,A,Official figure
+886,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2020,2020,tonnes,25982696.0,A,Official figure
+887,QCL,Crops and livestock products,104,Myanmar,5510,Production,0113,Rice,2021,2021,tonnes,24910000.0,T,Unofficial figure
+888,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2011,2011,tonnes,4460278.0,A,Official figure
+889,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2012,2012,tonnes,5072248.0,A,Official figure
+890,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2013,2013,tonnes,4504503.0,A,Official figure
+891,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2014,2014,tonnes,5047047.0,A,Official figure
+892,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2015,2015,tonnes,4788612.0,A,Official figure
+893,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2016,2016,tonnes,4299078.73,A,Official figure
+894,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2017,2017,tonnes,5230327.0,A,Official figure
+895,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2018,2018,tonnes,5151925.0,A,Official figure
+896,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2019,2019,tonnes,5610011.0,A,Official figure
+897,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2020,2020,tonnes,5550878.0,A,Official figure
+898,QCL,Crops and livestock products,524,Nepal,5510,Production,0113,Rice,2021,2021,tonnes,5621710.0,A,Official figure
+899,QCL,Crops and livestock products,528,Netherlands,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+900,QCL,Crops and livestock products,528,Netherlands,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+901,QCL,Crops and livestock products,528,Netherlands,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+902,QCL,Crops and livestock products,528,Netherlands,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+903,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2011,2011,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+904,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2012,2012,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+905,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2013,2013,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+906,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2014,2014,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+907,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2015,2015,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+908,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2016,2016,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+909,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2017,2017,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+910,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2018,2018,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+911,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2019,2019,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+912,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2020,2020,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+913,QCL,Crops and livestock products,554,New Zealand,5510,Production,0113,Rice,2021,2021,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+914,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2011,2011,tonnes,413321.2,A,Official figure
+915,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2012,2012,tonnes,418656.1,A,Official figure
+916,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2013,2013,tonnes,371934.11,A,Official figure
+917,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2014,2014,tonnes,369047.68,A,Official figure
+918,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2015,2015,tonnes,365096.46,A,Official figure
+919,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2016,2016,tonnes,418078.69,A,Official figure
+920,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2017,2017,tonnes,422611.74,A,Official figure
+921,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2018,2018,tonnes,438079.0,A,Official figure
+922,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2019,2019,tonnes,468319.0,A,Official figure
+923,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2020,2020,tonnes,476992.0,A,Official figure
+924,QCL,Crops and livestock products,558,Nicaragua,5510,Production,0113,Rice,2021,2021,tonnes,491815.0,A,Official figure
+925,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2011,2011,tonnes,74133.0,A,Official figure
+926,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2012,2012,tonnes,71289.0,A,Official figure
+927,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2013,2013,tonnes,87106.0,A,Official figure
+928,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2014,2014,tonnes,103941.0,A,Official figure
+929,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2015,2015,tonnes,90831.0,A,Official figure
+930,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2016,2016,tonnes,104392.0,A,Official figure
+931,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2017,2017,tonnes,112632.0,A,Official figure
+932,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2018,2018,tonnes,101606.56,A,Official figure
+933,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2019,2019,tonnes,121760.37,A,Official figure
+934,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2020,2020,tonnes,179382.45,A,Official figure
+935,QCL,Crops and livestock products,562,Niger,5510,Production,0113,Rice,2021,2021,tonnes,22397.0,A,Official figure
+936,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2011,2011,tonnes,4612614.0,A,Official figure
+937,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2012,2012,tonnes,5432930.0,A,Official figure
+938,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2013,2013,tonnes,4823330.0,A,Official figure
+939,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2014,2014,tonnes,6617890.0,A,Official figure
+940,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2015,2015,tonnes,7186570.0,A,Official figure
+941,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2016,2016,tonnes,10516561.0,A,Official figure
+942,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2017,2017,tonnes,10889549.0,A,Official figure
+943,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2018,2018,tonnes,10858537.0,A,Official figure
+944,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2019,2019,tonnes,8435510.0,A,Official figure
+945,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2020,2020,tonnes,8171800.0,A,Official figure
+946,QCL,Crops and livestock products,566,Nigeria,5510,Production,0113,Rice,2021,2021,tonnes,8342000.0,A,Official figure
+947,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2011,2011,tonnes,26964.0,A,Official figure
+948,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2012,2012,tonnes,24361.0,A,Official figure
+949,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2013,2013,tonnes,27921.0,A,Official figure
+950,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2014,2014,tonnes,30500.0,A,Official figure
+951,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2015,2015,tonnes,30527.0,A,Official figure
+952,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2016,2016,tonnes,24792.0,A,Official figure
+953,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2017,2017,tonnes,17080.0,A,Official figure
+954,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2018,2018,tonnes,19732.0,A,Official figure
+955,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2019,2019,tonnes,21278.0,A,Official figure
+956,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2020,2020,tonnes,19518.0,A,Official figure
+957,QCL,Crops and livestock products,807,North Macedonia,5510,Production,0113,Rice,2021,2021,tonnes,18962.0,A,Official figure
+958,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2011,2011,tonnes,9240600.0,A,Official figure
+959,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2012,2012,tonnes,8303850.0,A,Official figure
+960,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2013,2013,tonnes,10467150.0,A,Official figure
+961,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2014,2014,tonnes,10504200.0,A,Official figure
+962,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2015,2015,tonnes,10201840.0,A,Official figure
+963,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2016,2016,tonnes,10273968.0,A,Official figure
+964,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2017,2017,tonnes,11174815.5,A,Official figure
+965,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2018,2018,tonnes,7201966.0,A,Official figure
+966,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2019,2019,tonnes,11120483.0,A,Official figure
+967,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2020,2020,tonnes,12629514.0,A,Official figure
+968,QCL,Crops and livestock products,586,Pakistan,5510,Production,0113,Rice,2021,2021,tonnes,13984009.0,A,Official figure
+969,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2011,2011,tonnes,291120.0,A,Official figure
+970,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2012,2012,tonnes,248205.0,A,Official figure
+971,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2013,2013,tonnes,287396.0,A,Official figure
+972,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2014,2014,tonnes,255136.0,A,Official figure
+973,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2015,2015,tonnes,281980.0,A,Official figure
+974,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2016,2016,tonnes,321520.0,A,Official figure
+975,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2017,2017,tonnes,316403.0,A,Official figure
+976,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2018,2018,tonnes,350195.0,A,Official figure
+977,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2019,2019,tonnes,372245.0,A,Official figure
+978,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2020,2020,tonnes,391600.0,A,Official figure
+979,QCL,Crops and livestock products,591,Panama,5510,Production,0113,Rice,2021,2021,tonnes,406370.0,A,Official figure
+980,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2011,2011,tonnes,822.75,I,Imputed value
+981,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2012,2012,tonnes,827.91,I,Imputed value
+982,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2013,2013,tonnes,833.07,I,Imputed value
+983,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2014,2014,tonnes,837.7,I,Imputed value
+984,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2015,2015,tonnes,847.77,I,Imputed value
+985,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2016,2016,tonnes,856.69,I,Imputed value
+986,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2017,2017,tonnes,859.04,I,Imputed value
+987,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2018,2018,tonnes,874.52,I,Imputed value
+988,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2019,2019,tonnes,872.99,I,Imputed value
+989,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2020,2020,tonnes,876.39,I,Imputed value
+990,QCL,Crops and livestock products,598,Papua New Guinea,5510,Production,0113,Rice,2021,2021,tonnes,879.64,I,Imputed value
+991,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2011,2011,tonnes,408246.0,A,Official figure
+992,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2012,2012,tonnes,396000.0,A,Official figure
+993,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2013,2013,tonnes,617400.0,A,Official figure
+994,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2014,2014,tonnes,804000.0,A,Official figure
+995,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2015,2015,tonnes,857771.0,A,Official figure
+996,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2016,2016,tonnes,858000.0,A,Official figure
+997,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2017,2017,tonnes,924000.0,A,Official figure
+998,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2018,2018,tonnes,894600.0,A,Official figure
+999,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2019,2019,tonnes,1069200.0,A,Official figure
+1000,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2020,2020,tonnes,1187768.0,A,Official figure
+1001,QCL,Crops and livestock products,600,Paraguay,5510,Production,0113,Rice,2021,2021,tonnes,1180600.0,A,Official figure
+1002,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2011,2011,tonnes,2624458.0,A,Official figure
+1003,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2012,2012,tonnes,3043330.45,A,Official figure
+1004,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2013,2013,tonnes,3050934.0,A,Official figure
+1005,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2014,2014,tonnes,2896613.0,A,Official figure
+1006,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2015,2015,tonnes,3151408.0,A,Official figure
+1007,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2016,2016,tonnes,3190969.47,A,Official figure
+1008,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2017,2017,tonnes,3115544.0,A,Official figure
+1009,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2018,2018,tonnes,3557899.99,A,Official figure
+1010,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2019,2019,tonnes,3190969.47,A,Official figure
+1011,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2020,2020,tonnes,3434199.0,A,Official figure
+1012,QCL,Crops and livestock products,604,Peru,5510,Production,0113,Rice,2021,2021,tonnes,3474307.0,A,Official figure
+1013,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2011,2011,tonnes,16684062.0,A,Official figure
+1014,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2012,2012,tonnes,18032525.47,A,Official figure
+1015,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2013,2013,tonnes,18439419.73,A,Official figure
+1016,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2014,2014,tonnes,18967826.17,A,Official figure
+1017,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2015,2015,tonnes,18149837.78,A,Official figure
+1018,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2016,2016,tonnes,17627245.0,A,Official figure
+1019,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2017,2017,tonnes,19276346.63,A,Official figure
+1020,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2018,2018,tonnes,19066093.94,A,Official figure
+1021,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2019,2019,tonnes,18814827.29,A,Official figure
+1022,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2020,2020,tonnes,19294855.51,A,Official figure
+1023,QCL,Crops and livestock products,608,Philippines,5510,Production,0113,Rice,2021,2021,tonnes,19960170.2,A,Official figure
+1024,QCL,Crops and livestock products,616,Poland,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+1025,QCL,Crops and livestock products,616,Poland,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+1026,QCL,Crops and livestock products,616,Poland,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+1027,QCL,Crops and livestock products,616,Poland,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+1028,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2011,2011,tonnes,185016.0,A,Official figure
+1029,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2012,2012,tonnes,187028.0,A,Official figure
+1030,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2013,2013,tonnes,180155.0,A,Official figure
+1031,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2014,2014,tonnes,167322.0,A,Official figure
+1032,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2015,2015,tonnes,184918.0,A,Official figure
+1033,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2016,2016,tonnes,169289.0,A,Official figure
+1034,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2017,2017,tonnes,179777.0,A,Official figure
+1035,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2018,2018,tonnes,160790.0,A,Official figure
+1036,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2019,2019,tonnes,161500.0,A,Official figure
+1037,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2020,2020,tonnes,132790.0,A,Official figure
+1038,QCL,Crops and livestock products,620,Portugal,5510,Production,0113,Rice,2021,2021,tonnes,175900.0,A,Official figure
+1039,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2011,2011,tonnes,0.0,E,Estimated value
+1040,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2012,2012,tonnes,0.0,E,Estimated value
+1041,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2013,2013,tonnes,0.0,E,Estimated value
+1042,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2014,2014,tonnes,48.85,A,Official figure
+1043,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2015,2015,tonnes,292.75,A,Official figure
+1044,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2016,2016,tonnes,113.87,E,Estimated value
+1045,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2017,2017,tonnes,151.82,E,Estimated value
+1046,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2018,2018,tonnes,186.15,E,Estimated value
+1047,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2019,2019,tonnes,150.61,E,Estimated value
+1048,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2020,2020,tonnes,162.86,E,Estimated value
+1049,QCL,Crops and livestock products,630,Puerto Rico,5510,Production,0113,Rice,2021,2021,tonnes,166.54,E,Estimated value
+1050,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2011,2011,tonnes,5615916.0,A,Official figure
+1051,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2012,2012,tonnes,5405155.0,A,Official figure
+1052,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2013,2013,tonnes,5631689.0,A,Official figure
+1053,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2014,2014,tonnes,5637682.0,A,Official figure
+1054,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2015,2015,tonnes,5771026.0,A,Official figure
+1055,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2016,2016,tonnes,5624607.0,A,Official figure
+1056,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2017,2017,tonnes,5285551.0,A,Official figure
+1057,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2018,2018,tonnes,5195437.0,A,Official figure
+1058,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2019,2019,tonnes,5016083.0,A,Official figure
+1059,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2020,2020,tonnes,4713162.0,A,Official figure
+1060,QCL,Crops and livestock products,410,Republic of Korea,5510,Production,0113,Rice,2021,2021,tonnes,5211037.0,A,Official figure
+1061,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2011,2011,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1062,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2012,2012,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1063,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2013,2013,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1064,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2014,2014,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1065,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2015,2015,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1066,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2016,2016,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1067,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2017,2017,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1068,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2018,2018,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1069,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2019,2019,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1070,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2020,2020,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1071,QCL,Crops and livestock products,498,Republic of Moldova,5510,Production,0113,Rice,2021,2021,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1072,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2011,2011,tonnes,65261.0,A,Official figure
+1073,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2012,2012,tonnes,50862.0,A,Official figure
+1074,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2013,2013,tonnes,54646.0,A,Official figure
+1075,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2014,2014,tonnes,45159.0,A,Official figure
+1076,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2015,2015,tonnes,49773.0,A,Official figure
+1077,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2016,2016,tonnes,43635.0,A,Official figure
+1078,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2017,2017,tonnes,43311.0,A,Official figure
+1079,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2018,2018,tonnes,42860.0,A,Official figure
+1080,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2019,2019,tonnes,39530.0,A,Official figure
+1081,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2020,2020,tonnes,24670.0,A,Official figure
+1082,QCL,Crops and livestock products,642,Romania,5510,Production,0113,Rice,2021,2021,tonnes,14980.0,A,Official figure
+1083,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2011,2011,tonnes,1055574.0,A,Official figure
+1084,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2012,2012,tonnes,1051891.0,A,Official figure
+1085,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2013,2013,tonnes,934943.0,A,Official figure
+1086,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2014,2014,tonnes,1048566.1,A,Official figure
+1087,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2015,2015,tonnes,1109762.0,A,Official figure
+1088,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2016,2016,tonnes,1080886.3,A,Official figure
+1089,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2017,2017,tonnes,986619.6,A,Official figure
+1090,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2018,2018,tonnes,1038222.0,A,Official figure
+1091,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2019,2019,tonnes,1098659.7,A,Official figure
+1092,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2020,2020,tonnes,1141818.9,A,Official figure
+1093,QCL,Crops and livestock products,643,Russian Federation,5510,Production,0113,Rice,2021,2021,tonnes,1076411.5,A,Official figure
+1094,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2011,2011,tonnes,80541.0,A,Official figure
+1095,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2012,2012,tonnes,84079.0,A,Official figure
+1096,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2013,2013,tonnes,93746.0,A,Official figure
+1097,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2014,2014,tonnes,72723.0,A,Official figure
+1098,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2015,2015,tonnes,97435.0,A,Official figure
+1099,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2016,2016,tonnes,110544.42,A,Official figure
+1100,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2017,2017,tonnes,108958.15,A,Official figure
+1101,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2018,2018,tonnes,113880.46,A,Official figure
+1102,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2019,2019,tonnes,131576.89,A,Official figure
+1103,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2020,2020,tonnes,116504.47,A,Official figure
+1104,QCL,Crops and livestock products,646,Rwanda,5510,Production,0113,Rice,2021,2021,tonnes,131758.0,A,Official figure
+1105,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2011,2011,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1106,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2012,2012,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1107,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2013,2013,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1108,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2014,2014,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1109,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2015,2015,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1110,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2016,2016,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1111,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2017,2017,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1112,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2018,2018,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1113,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2019,2019,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1114,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2020,2020,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1115,QCL,Crops and livestock products,670,Saint Vincent and the Grenadines,5510,Production,0113,Rice,2021,2021,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1116,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2011,2011,tonnes,0.0,I,Imputed value
+1117,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2012,2012,tonnes,0.0,I,Imputed value
+1118,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2013,2013,tonnes,0.0,I,Imputed value
+1119,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2014,2014,tonnes,0.0,I,Imputed value
+1120,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2015,2015,tonnes,0.0,I,Imputed value
+1121,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2016,2016,tonnes,0.0,I,Imputed value
+1122,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2017,2017,tonnes,12.0,A,Official figure
+1123,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2018,2018,tonnes,18.0,A,Official figure
+1124,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2019,2019,tonnes,400.0,E,Estimated value
+1125,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2020,2020,tonnes,787.0,A,Official figure
+1126,QCL,Crops and livestock products,682,Saudi Arabia,5510,Production,0113,Rice,2021,2021,tonnes,814.0,A,Official figure
+1127,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2011,2011,tonnes,405824.0,A,Official figure
+1128,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2012,2012,tonnes,469649.0,A,Official figure
+1129,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2013,2013,tonnes,436153.0,A,Official figure
+1130,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2014,2014,tonnes,559021.0,A,Official figure
+1131,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2015,2015,tonnes,906348.0,A,Official figure
+1132,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2016,2016,tonnes,950779.0,A,Official figure
+1133,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2017,2017,tonnes,1011269.0,A,Official figure
+1134,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2018,2018,tonnes,1206587.27,A,Official figure
+1135,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2019,2019,tonnes,1155730.28,A,Official figure
+1136,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2020,2020,tonnes,1349723.01,A,Official figure
+1137,QCL,Crops and livestock products,686,Senegal,5510,Production,0113,Rice,2021,2021,tonnes,1382119.93,A,Official figure
+1138,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2011,2011,tonnes,1129338.0,A,Official figure
+1139,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2012,2012,tonnes,1141417.0,A,Official figure
+1140,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2013,2013,tonnes,1255559.0,A,Official figure
+1141,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2014,2014,tonnes,1204020.0,A,Official figure
+1142,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2015,2015,tonnes,871693.0,A,Official figure
+1143,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2016,2016,tonnes,875304.0,A,Official figure
+1144,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2017,2017,tonnes,897087.0,A,Official figure
+1145,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2018,2018,tonnes,918713.0,A,Official figure
+1146,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2019,2019,tonnes,947464.0,A,Official figure
+1147,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2020,2020,tonnes,1049795.0,A,Official figure
+1148,QCL,Crops and livestock products,694,Sierra Leone,5510,Production,0113,Rice,2021,2021,tonnes,1978905.17,A,Official figure
+1149,QCL,Crops and livestock products,703,Slovakia,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+1150,QCL,Crops and livestock products,703,Slovakia,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+1151,QCL,Crops and livestock products,703,Slovakia,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+1152,QCL,Crops and livestock products,703,Slovakia,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+1153,QCL,Crops and livestock products,705,Slovenia,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+1154,QCL,Crops and livestock products,705,Slovenia,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+1155,QCL,Crops and livestock products,705,Slovenia,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+1156,QCL,Crops and livestock products,705,Slovenia,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+1157,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2011,2011,tonnes,2777.46,I,Imputed value
+1158,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2012,2012,tonnes,2750.89,I,Imputed value
+1159,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2013,2013,tonnes,2758.53,I,Imputed value
+1160,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2014,2014,tonnes,2748.21,I,Imputed value
+1161,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2015,2015,tonnes,2738.1,I,Imputed value
+1162,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2016,2016,tonnes,2739.92,I,Imputed value
+1163,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2017,2017,tonnes,2746.61,I,Imputed value
+1164,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2018,2018,tonnes,2746.45,I,Imputed value
+1165,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2019,2019,tonnes,2737.36,I,Imputed value
+1166,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2020,2020,tonnes,2742.52,I,Imputed value
+1167,QCL,Crops and livestock products,90,Solomon Islands,5510,Production,0113,Rice,2021,2021,tonnes,2747.68,I,Imputed value
+1168,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2011,2011,tonnes,4270.0,T,Unofficial figure
+1169,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2012,2012,tonnes,5356.0,T,Unofficial figure
+1170,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2013,2013,tonnes,1970.0,T,Unofficial figure
+1171,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2014,2014,tonnes,600.0,T,Unofficial figure
+1172,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2015,2015,tonnes,2450.0,T,Unofficial figure
+1173,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2016,2016,tonnes,1375.0,T,Unofficial figure
+1174,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2017,2017,tonnes,1473.51,I,Imputed value
+1175,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2018,2018,tonnes,1766.17,E,Estimated value
+1176,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2019,2019,tonnes,1538.23,E,Estimated value
+1177,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2020,2020,tonnes,1592.64,E,Estimated value
+1178,QCL,Crops and livestock products,706,Somalia,5510,Production,0113,Rice,2021,2021,tonnes,1632.35,E,Estimated value
+1179,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2011,2011,tonnes,3066.99,I,Imputed value
+1180,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2012,2012,tonnes,3000.0,E,Estimated value
+1181,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2013,2013,tonnes,3000.0,E,Estimated value
+1182,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2014,2014,tonnes,3056.61,I,Imputed value
+1183,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2015,2015,tonnes,3074.24,I,Imputed value
+1184,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2016,2016,tonnes,3077.21,I,Imputed value
+1185,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2017,2017,tonnes,3079.22,I,Imputed value
+1186,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2018,2018,tonnes,3078.73,I,Imputed value
+1187,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2019,2019,tonnes,3078.91,I,Imputed value
+1188,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2020,2020,tonnes,3079.61,I,Imputed value
+1189,QCL,Crops and livestock products,710,South Africa,5510,Production,0113,Rice,2021,2021,tonnes,3080.32,I,Imputed value
+1190,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2012,2012,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1191,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2013,2013,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1192,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2014,2014,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1193,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2015,2015,tonnes,15695.0,A,Official figure
+1194,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2016,2016,tonnes,14073.0,A,Official figure
+1195,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2017,2017,tonnes,13022.0,A,Official figure
+1196,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2018,2018,tonnes,12821.0,A,Official figure
+1197,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2019,2019,tonnes,24555.0,A,Official figure
+1198,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2020,2020,tonnes,26232.0,A,Official figure
+1199,QCL,Crops and livestock products,728,South Sudan,5510,Production,0113,Rice,2021,2021,tonnes,26024.0,A,Official figure
+1200,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2011,2011,tonnes,927554.0,A,Official figure
+1201,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2012,2012,tonnes,899602.0,A,Official figure
+1202,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2013,2013,tonnes,872500.0,A,Official figure
+1203,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2014,2014,tonnes,861103.0,A,Official figure
+1204,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2015,2015,tonnes,847026.0,A,Official figure
+1205,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2016,2016,tonnes,835400.0,A,Official figure
+1206,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2017,2017,tonnes,835178.0,A,Official figure
+1207,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2018,2018,tonnes,798880.0,A,Official figure
+1208,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2019,2019,tonnes,778780.0,A,Official figure
+1209,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2020,2020,tonnes,739230.0,A,Official figure
+1210,QCL,Crops and livestock products,724,Spain,5510,Production,0113,Rice,2021,2021,tonnes,617180.0,A,Official figure
+1211,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2011,2011,tonnes,3894890.0,A,Official figure
+1212,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2012,2012,tonnes,3845941.0,A,Official figure
+1213,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2013,2013,tonnes,4621000.0,A,Official figure
+1214,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2014,2014,tonnes,3381000.0,A,Official figure
+1215,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2015,2015,tonnes,4819000.0,A,Official figure
+1216,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2016,2016,tonnes,4420085.0,A,Official figure
+1217,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2017,2017,tonnes,2383153.0,A,Official figure
+1218,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2018,2018,tonnes,3929831.0,A,Official figure
+1219,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2019,2019,tonnes,4592056.0,A,Official figure
+1220,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2020,2020,tonnes,5120924.0,A,Official figure
+1221,QCL,Crops and livestock products,144,Sri Lanka,5510,Production,0113,Rice,2021,2021,tonnes,5149596.0,A,Official figure
+1222,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2012,2012,tonnes,24000.0,A,Official figure
+1223,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2013,2013,tonnes,25000.0,A,Official figure
+1224,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2014,2014,tonnes,16900.0,A,Official figure
+1225,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2015,2015,tonnes,32000.0,A,Official figure
+1226,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2016,2016,tonnes,28000.0,A,Official figure
+1227,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2017,2017,tonnes,32000.0,A,Official figure
+1228,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2018,2018,tonnes,30000.0,A,Official figure
+1229,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2019,2019,tonnes,32000.0,A,Official figure
+1230,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2020,2020,tonnes,34133.33,A,Official figure
+1231,QCL,Crops and livestock products,729,Sudan,5510,Production,0113,Rice,2021,2021,tonnes,25000.0,T,Unofficial figure
+1232,QCL,Crops and livestock products,736,Sudan (former),5510,Production,0113,Rice,2011,2011,tonnes,25000.0,A,Official figure
+1233,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2011,2011,tonnes,235298.0,A,Official figure
+1234,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2012,2012,tonnes,224127.0,A,Official figure
+1235,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2013,2013,tonnes,262029.0,A,Official figure
+1236,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2014,2014,tonnes,275851.0,A,Official figure
+1237,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2015,2015,tonnes,268447.07,A,Official figure
+1238,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2016,2016,tonnes,278077.0,A,Official figure
+1239,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2017,2017,tonnes,289431.0,A,Official figure
+1240,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2018,2018,tonnes,273916.0,A,Official figure
+1241,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2019,2019,tonnes,274266.0,A,Official figure
+1242,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2020,2020,tonnes,249836.0,A,Official figure
+1243,QCL,Crops and livestock products,740,Suriname,5510,Production,0113,Rice,2021,2021,tonnes,263749.0,A,Official figure
+1244,QCL,Crops and livestock products,752,Sweden,5510,Production,0113,Rice,2018,2018,tonnes,0.0,A,Official figure
+1245,QCL,Crops and livestock products,752,Sweden,5510,Production,0113,Rice,2019,2019,tonnes,0.0,A,Official figure
+1246,QCL,Crops and livestock products,752,Sweden,5510,Production,0113,Rice,2020,2020,tonnes,0.0,A,Official figure
+1247,QCL,Crops and livestock products,752,Sweden,5510,Production,0113,Rice,2021,2021,tonnes,0.0,A,Official figure
+1248,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2011,2011,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1249,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2012,2012,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1250,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2013,2013,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1251,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2014,2014,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1252,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2015,2015,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1253,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2016,2016,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1254,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2017,2017,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1255,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2018,2018,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1256,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2019,2019,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1257,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2020,2020,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1258,QCL,Crops and livestock products,760,Syrian Arab Republic,5510,Production,0113,Rice,2021,2021,tonnes,0.0,M,"Missing value (data cannot exist, not applicable)"
+1259,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2011,2011,tonnes,76875.0,A,Official figure
+1260,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2012,2012,tonnes,82378.0,A,Official figure
+1261,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2013,2013,tonnes,78039.0,A,Official figure
+1262,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2014,2014,tonnes,79933.4,A,Official figure
+1263,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2015,2015,tonnes,85807.0,A,Official figure
+1264,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2016,2016,tonnes,96476.1,A,Official figure
+1265,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2017,2017,tonnes,97763.0,A,Official figure
+1266,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2018,2018,tonnes,90446.0,A,Official figure
+1267,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2019,2019,tonnes,106441.7,A,Official figure
+1268,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2020,2020,tonnes,99000.0,T,Unofficial figure
+1269,QCL,Crops and livestock products,762,Tajikistan,5510,Production,0113,Rice,2021,2021,tonnes,67000.0,T,Unofficial figure
+1270,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2011,2011,tonnes,38102720.0,A,Official figure
+1271,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2012,2012,tonnes,38100189.0,A,Official figure
+1272,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2013,2013,tonnes,36762277.0,A,Official figure
+1273,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2014,2014,tonnes,32620160.0,A,Official figure
+1274,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2015,2015,tonnes,27702191.0,A,Official figure
+1275,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2016,2016,tonnes,31857000.0,A,Official figure
+1276,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2017,2017,tonnes,32898903.0,A,Official figure
+1277,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2018,2018,tonnes,32348114.0,A,Official figure
+1278,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2019,2019,tonnes,28617948.0,A,Official figure
+1279,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2020,2020,tonnes,30231025.0,A,Official figure
+1280,QCL,Crops and livestock products,764,Thailand,5510,Production,0113,Rice,2021,2021,tonnes,33582000.0,A,Official figure
+1281,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2011,2011,tonnes,98297.0,A,Official figure
+1282,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2012,2012,tonnes,119166.0,A,Official figure
+1283,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2013,2013,tonnes,87332.0,A,Official figure
+1284,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2014,2014,tonnes,88824.0,A,Official figure
+1285,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2015,2015,tonnes,71541.0,A,Official figure
+1286,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2016,2016,tonnes,60000.0,T,Unofficial figure
+1287,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2017,2017,tonnes,62114.64,I,Imputed value
+1288,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2018,2018,tonnes,57000.0,A,Official figure
+1289,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2019,2019,tonnes,47822.0,A,Official figure
+1290,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2020,2020,tonnes,49983.0,A,Official figure
+1291,QCL,Crops and livestock products,626,Timor-Leste,5510,Production,0113,Rice,2021,2021,tonnes,45455.0,A,Official figure
+1292,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2011,2011,tonnes,112233.0,A,Official figure
+1293,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2012,2012,tonnes,160939.0,A,Official figure
+1294,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2013,2013,tonnes,260418.0,A,Official figure
+1295,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2014,2014,tonnes,147930.0,A,Official figure
+1296,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2015,2015,tonnes,140952.0,A,Official figure
+1297,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2016,2016,tonnes,137106.0,A,Official figure
+1298,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2017,2017,tonnes,140519.0,A,Official figure
+1299,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2018,2018,tonnes,145489.0,A,Official figure
+1300,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2019,2019,tonnes,147053.0,A,Official figure
+1301,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2020,2020,tonnes,160000.0,T,Unofficial figure
+1302,QCL,Crops and livestock products,768,Togo,5510,Production,0113,Rice,2021,2021,tonnes,150000.0,T,Unofficial figure
+1303,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2011,2011,tonnes,2662.8,A,Official figure
+1304,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2012,2012,tonnes,2121.9,A,Official figure
+1305,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2013,2013,tonnes,2859.0,A,Official figure
+1306,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2014,2014,tonnes,2912.0,A,Official figure
+1307,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2015,2015,tonnes,1900.0,A,Official figure
+1308,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2016,2016,tonnes,1823.0,A,Official figure
+1309,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2017,2017,tonnes,1620.0,A,Official figure
+1310,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2018,2018,tonnes,586.0,A,Official figure
+1311,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2019,2019,tonnes,575.0,A,Official figure
+1312,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2020,2020,tonnes,734.0,A,Official figure
+1313,QCL,Crops and livestock products,780,Trinidad and Tobago,5510,Production,0113,Rice,2021,2021,tonnes,351.1,A,Official figure
+1314,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2011,2011,tonnes,900000.0,A,Official figure
+1315,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2012,2012,tonnes,880000.0,A,Official figure
+1316,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2013,2013,tonnes,900000.0,A,Official figure
+1317,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2014,2014,tonnes,830000.0,A,Official figure
+1318,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2015,2015,tonnes,920000.0,A,Official figure
+1319,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2016,2016,tonnes,920000.0,A,Official figure
+1320,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2017,2017,tonnes,900000.0,A,Official figure
+1321,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2018,2018,tonnes,940000.0,A,Official figure
+1322,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2019,2019,tonnes,1000000.0,A,Official figure
+1323,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2020,2020,tonnes,980000.0,A,Official figure
+1324,QCL,Crops and livestock products,792,Türkiye,5510,Production,0113,Rice,2021,2021,tonnes,1000000.0,A,Official figure
+1325,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2011,2011,tonnes,22650.0,A,Official figure
+1326,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2012,2012,tonnes,129000.0,T,Unofficial figure
+1327,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2013,2013,tonnes,132000.0,T,Unofficial figure
+1328,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2014,2014,tonnes,130000.0,T,Unofficial figure
+1329,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2015,2015,tonnes,130000.0,T,Unofficial figure
+1330,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2016,2016,tonnes,130000.0,T,Unofficial figure
+1331,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2017,2017,tonnes,130000.0,T,Unofficial figure
+1332,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2018,2018,tonnes,130000.0,T,Unofficial figure
+1333,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2019,2019,tonnes,85069.7,A,Official figure
+1334,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2020,2020,tonnes,86234.1,A,Official figure
+1335,QCL,Crops and livestock products,795,Turkmenistan,5510,Production,0113,Rice,2021,2021,tonnes,82827.98,I,Imputed value
+1336,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2011,2011,tonnes,233000.0,A,Official figure
+1337,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2012,2012,tonnes,212000.0,A,Official figure
+1338,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2013,2013,tonnes,214000.0,A,Official figure
+1339,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2014,2014,tonnes,237008.0,A,Official figure
+1340,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2015,2015,tonnes,238193.0,A,Official figure
+1341,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2016,2016,tonnes,214910.0,A,Official figure
+1342,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2017,2017,tonnes,188674.0,A,Official figure
+1343,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2018,2018,tonnes,199266.0,A,Official figure
+1344,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2019,2019,tonnes,166000.0,A,Official figure
+1345,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2020,2020,tonnes,373000.0,A,Official figure
+1346,QCL,Crops and livestock products,800,Uganda,5510,Production,0113,Rice,2021,2021,tonnes,303283.18,I,Imputed value
+1347,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2011,2011,tonnes,169900.0,A,Official figure
+1348,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2012,2012,tonnes,159800.0,A,Official figure
+1349,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2013,2013,tonnes,145050.0,A,Official figure
+1350,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2014,2014,tonnes,50880.0,A,Official figure
+1351,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2015,2015,tonnes,62510.0,A,Official figure
+1352,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2016,2016,tonnes,64700.0,A,Official figure
+1353,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2017,2017,tonnes,63940.0,A,Official figure
+1354,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2018,2018,tonnes,69210.0,A,Official figure
+1355,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2019,2019,tonnes,54570.0,A,Official figure
+1356,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2020,2020,tonnes,60680.0,A,Official figure
+1357,QCL,Crops and livestock products,804,Ukraine,5510,Production,0113,Rice,2021,2021,tonnes,49480.0,A,Official figure
+1358,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2011,2011,tonnes,2248320.0,A,Official figure
+1359,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2012,2012,tonnes,1800551.0,A,Official figure
+1360,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2013,2013,tonnes,2194750.0,A,Official figure
+1361,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2014,2014,tonnes,1681000.0,A,Official figure
+1362,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2015,2015,tonnes,1937000.0,A,Official figure
+1363,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2016,2016,tonnes,2229000.0,A,Official figure
+1364,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2017,2017,tonnes,2451707.0,A,Official figure
+1365,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2018,2018,tonnes,3414815.0,A,Official figure
+1366,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2019,2019,tonnes,3474766.0,A,Official figure
+1367,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2020,2020,tonnes,3038000.0,A,Official figure
+1368,QCL,Crops and livestock products,834,United Republic of Tanzania,5510,Production,0113,Rice,2021,2021,tonnes,2688000.0,A,Official figure
+1369,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2011,2011,tonnes,8388780.0,A,Official figure
+1370,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2012,2012,tonnes,9069080.0,A,Official figure
+1371,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2013,2013,tonnes,8616120.0,A,Official figure
+1372,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2014,2014,tonnes,10079500.0,A,Official figure
+1373,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2015,2015,tonnes,8724530.0,A,Official figure
+1374,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2016,2016,tonnes,10167050.0,A,Official figure
+1375,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2017,2017,tonnes,8084290.0,A,Official figure
+1376,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2018,2018,tonnes,10152890.0,A,Official figure
+1377,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2019,2019,tonnes,8396180.0,A,Official figure
+1378,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2020,2020,tonnes,10319860.0,A,Official figure
+1379,QCL,Crops and livestock products,840,United States of America,5510,Production,0113,Rice,2021,2021,tonnes,8699720.0,A,Official figure
+1380,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2011,2011,tonnes,1643000.0,A,Official figure
+1381,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2012,2012,tonnes,1424000.0,A,Official figure
+1382,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2013,2013,tonnes,1359500.0,A,Official figure
+1383,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2014,2014,tonnes,1348300.0,A,Official figure
+1384,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2015,2015,tonnes,1396100.0,A,Official figure
+1385,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2016,2016,tonnes,1304672.0,A,Official figure
+1386,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2017,2017,tonnes,1409582.0,A,Official figure
+1387,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2018,2018,tonnes,1247000.0,A,Official figure
+1388,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2019,2019,tonnes,1200000.0,A,Official figure
+1389,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2020,2020,tonnes,1209000.0,A,Official figure
+1390,QCL,Crops and livestock products,858,Uruguay,5510,Production,0113,Rice,2021,2021,tonnes,1309000.0,A,Official figure
+1391,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2011,2011,tonnes,119758.0,A,Official figure
+1392,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2012,2012,tonnes,325718.0,A,Official figure
+1393,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2013,2013,tonnes,340219.0,A,Official figure
+1394,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2014,2014,tonnes,356097.0,A,Official figure
+1395,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2015,2015,tonnes,425745.0,A,Official figure
+1396,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2016,2016,tonnes,451981.0,A,Official figure
+1397,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2017,2017,tonnes,395422.0,A,Official figure
+1398,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2018,2018,tonnes,221089.0,A,Official figure
+1399,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2019,2019,tonnes,314659.0,A,Official figure
+1400,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2020,2020,tonnes,293451.0,A,Official figure
+1401,QCL,Crops and livestock products,860,Uzbekistan,5510,Production,0113,Rice,2021,2021,tonnes,334226.0,A,Official figure
+1402,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2011,2011,tonnes,1018258.0,A,Official figure
+1403,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2012,2012,tonnes,1045878.0,A,Official figure
+1404,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2013,2013,tonnes,1084012.0,A,Official figure
+1405,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2014,2014,tonnes,1158056.0,A,Official figure
+1406,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2015,2015,tonnes,802015.0,A,Official figure
+1407,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2016,2016,tonnes,498469.42,A,Official figure
+1408,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2017,2017,tonnes,588587.0,A,Official figure
+1409,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2018,2018,tonnes,490583.0,A,Official figure
+1410,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2019,2019,tonnes,516752.0,A,Official figure
+1411,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2020,2020,tonnes,704531.0,A,Official figure
+1412,QCL,Crops and livestock products,862,Venezuela (Bolivarian Republic of),5510,Production,0113,Rice,2021,2021,tonnes,788422.5,I,Imputed value
+1413,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2011,2011,tonnes,42398344.0,A,Official figure
+1414,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2012,2012,tonnes,43737598.0,A,Official figure
+1415,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2013,2013,tonnes,44039100.0,A,Official figure
+1416,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2014,2014,tonnes,44974206.0,A,Official figure
+1417,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2015,2015,tonnes,45090561.89,A,Official figure
+1418,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2016,2016,tonnes,43112009.81,A,Official figure
+1419,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2017,2017,tonnes,42763682.38,A,Official figure
+1420,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2018,2018,tonnes,44046249.56,A,Official figure
+1421,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2019,2019,tonnes,43495487.58,A,Official figure
+1422,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2020,2020,tonnes,42764999.76,A,Official figure
+1423,QCL,Crops and livestock products,704,Viet Nam,5510,Production,0113,Rice,2021,2021,tonnes,43852728.69,A,Official figure
+1424,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2011,2011,tonnes,49410.0,A,Official figure
+1425,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2012,2012,tonnes,45321.0,A,Official figure
+1426,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2013,2013,tonnes,44747.0,A,Official figure
+1427,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2014,2014,tonnes,49640.0,A,Official figure
+1428,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2015,2015,tonnes,25514.0,A,Official figure
+1429,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2016,2016,tonnes,26675.0,A,Official figure
+1430,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2017,2017,tonnes,38422.9,A,Official figure
+1431,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2018,2018,tonnes,43063.11,A,Official figure
+1432,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2019,2019,tonnes,29584.32,A,Official figure
+1433,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2020,2020,tonnes,34629.66,A,Official figure
+1434,QCL,Crops and livestock products,894,Zambia,5510,Production,0113,Rice,2021,2021,tonnes,65875.83,A,Official figure
+1435,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2011,2011,tonnes,1050.62,I,Imputed value
+1436,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2012,2012,tonnes,1074.0,A,Official figure
+1437,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2013,2013,tonnes,1183.48,I,Imputed value
+1438,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2014,2014,tonnes,1286.49,I,Imputed value
+1439,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2015,2015,tonnes,1418.0,A,Official figure
+1440,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2016,2016,tonnes,1295.99,E,Estimated value
+1441,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2017,2017,tonnes,1326.9,I,Imputed value
+1442,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2018,2018,tonnes,1342.47,I,Imputed value
+1443,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2019,2019,tonnes,1134.0,A,Official figure
+1444,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2020,2020,tonnes,750.0,E,Estimated value
+1445,QCL,Crops and livestock products,716,Zimbabwe,5510,Production,0113,Rice,2021,2021,tonnes,2908.0,A,Official figure

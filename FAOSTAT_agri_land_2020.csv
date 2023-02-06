@@ -1,0 +1,11 @@
+﻿Domain Code,Domain,Area Code (M49),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+"RL","Land Use","050","Bangladesh","5110","Area","6602","Agriculture","2020","2020","1000 ha","9901","I","Imputed value"
+"RL","Land Use","076","Brazil","5110","Area","6602","Agriculture","2020","2020","1000 ha","236878.801","I","Imputed value"
+"RL","Land Use","156","China, mainland","5110","Area","6602","Agriculture","2020","2020","1000 ha","527714","I","Imputed value"
+"RL","Land Use","356","India","5110","Area","6602","Agriculture","2020","2020","1000 ha","179045.0764","I","Imputed value"
+"RL","Land Use","360","Indonesia","5110","Area","6602","Agriculture","2020","2020","1000 ha","62300","I","Imputed value"
+"RL","Land Use","392","Japan","5110","Area","6602","Agriculture","2020","2020","1000 ha","4372","I","Imputed value"
+"RL","Land Use","104","Myanmar","5110","Area","6602","Agriculture","2020","2020","1000 ha","13008","I","Imputed value"
+"RL","Land Use","608","Philippines","5110","Area","6602","Agriculture","2020","2020","1000 ha","12675","I","Imputed value"
+"RL","Land Use","764","Thailand","5110","Area","6602","Agriculture","2020","2020","1000 ha","23010","I","Imputed value"
+"RL","Land Use","704","Viet Nam","5110","Area","6602","Agriculture","2020","2020","1000 ha","12360","I","Imputed value"
